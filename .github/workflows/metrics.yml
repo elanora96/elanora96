@@ -37,7 +37,7 @@ jobs:
           config_timezone: America/Los_Angeles
           repositories_skipped:
           # Gruvbox theme
-          extra_css: |
+          extras_css: |
             svg {
               font-family: "Liberation Mono", "Courier Prime", monospace;
               font-size: 14px;
