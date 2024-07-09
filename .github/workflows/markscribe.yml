@@ -9,6 +9,8 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -23,8 +25,8 @@ jobs:
           writeTo: "README.md"
 
       - name: Commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         env:
-          GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           commit_message: "markscribe: update README.md"
