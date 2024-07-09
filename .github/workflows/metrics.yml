@@ -36,7 +36,81 @@ jobs:
           base_hireable: yes
           config_timezone: America/Los_Angeles
           repositories_skipped:
+          # Gruvbox theme
           extra_css: |
+            svg {
+              font-family: "Liberation Mono", "Courier Prime", monospace;
+              font-size: 14px;
+              color: #373737;
+            }
+
+            .header {
+              background: linear-gradient(#282828 0%, #282828 100%);
+            }
+
+            .title {
+              color: #ebdbb2;
+            }
+
+            .button {
+              background: linear-gradient(#504b45 0%, #3c3b37 100%);
+            }
+
+            .button.exit {
+              background: linear-gradient(#d75545 0%, #b14129 100%);
+            }
+
+            pre,
+            .banner,
+            footer {
+              color: #ebdbb2;
+            }
+            pre {
+              background: #3c3836;
+            }
+            .banner,
+            footer {
+              color: #7c6f64;
+            }
+            .warnings {
+              color: #d79921;
+            }
+
+            .ps1-path {
+              color: #b8bb26;
+            }
+
+            .ps1-location {
+              color: #458588;
+            }
+
+            .diff {
+              color: #83a598;
+            }
+
+            .error {
+              color: #fb4934;
+            }
+
+            :root {
+              --color-calendar-graph-day-bg: #3c3836;
+              --color-calendar-graph-day-L1-bg: #fabd2f;
+              --color-calendar-graph-day-L2-bg: #d79921;
+              --color-calendar-graph-day-L3-bg: #b57614;
+              --color-calendar-graph-day-L4-bg: #7c6f64;
+              --color-calendar-halloween-graph-day-L1-bg: #ebdbb2;
+              --color-calendar-halloween-graph-day-L2-bg: #d79921;
+              --color-calendar-halloween-graph-day-L3-bg: #b57614;
+              --color-calendar-halloween-graph-day-L4-bg: #504945;
+              --color-calendar-winter-graph-day-L1-bg: #689d6a;
+              --color-calendar-winter-graph-day-L2-bg: #458588;
+              --color-calendar-winter-graph-day-L3-bg: #83a598;
+              --color-calendar-winter-graph-day-L4-bg: #b8bb26;
+            }
+
+            footer .banner {
+              display: none;
+            }
 
           plugin_gists: yes
           plugin_habits: yes
