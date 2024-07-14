@@ -6,9 +6,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 days ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (2 days ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (2 weeks ago)
-- [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (2 weeks ago)
+- [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (3 weeks ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
 
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (5 days ago)
-- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (5 days ago)
+- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (6 days ago)
+- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (6 days ago)
 - [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (2 weeks ago)
 - [Moved data to it&#39;s own file, added basic cart](https://github.com/akleventis/united_house_productions/pull/5) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Group by month in events](https://github.com/akleventis/united_house_productions/pull/4) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
@@ -44,14 +44,14 @@
 
 #### 📓 Gists I wrote
 
-- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (3 days ago)
+- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (4 days ago)
 - [jsonresume resume with contact info redacted](https://gist.github.com/f24a89e59871116e57c51869139f6276) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (4 days ago)
-- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (4 days ago)
-- [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (4 days ago)
+- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (5 days ago)
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (5 days ago)
+- [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (5 days ago)
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. (1 week ago)
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms. (1 week ago)
 - [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it! (1 week ago)
