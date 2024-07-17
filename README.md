@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (4 days ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (5 days ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (2 weeks ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (3 weeks ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (1 month ago)
@@ -44,7 +44,7 @@
 
 #### 📓 Gists I wrote
 
-- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (6 days ago)
+- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (1 week ago)
 - [jsonresume resume with contact info redacted](https://gist.github.com/f24a89e59871116e57c51869139f6276) (1 month ago)
 
 #### ⭐ Recent Stars
