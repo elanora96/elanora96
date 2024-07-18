@@ -6,14 +6,16 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (5 days ago)
-- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (2 weeks ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 day ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (6 days ago)
+- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (3 weeks ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (3 weeks ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - 
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - 
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) - 
@@ -23,7 +25,6 @@
 - [elanora96/spotifyalbumcleaner](https://github.com/elanora96/spotifyalbumcleaner) - 
 - [elanora96/The-Great-Linkerator](https://github.com/elanora96/The-Great-Linkerator) - 
 - [elanora96/Fitness_Tracker_React](https://github.com/elanora96/Fitness_Tracker_React) - 
-- [elanora96/users-hub-react](https://github.com/elanora96/users-hub-react) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 day ago)
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (1 week ago)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (1 week ago)
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (1 week ago)
@@ -58,7 +60,6 @@
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 week ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (2 weeks ago)
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications (1 month ago)
-- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (7 months ago)
 
 #### 📫 Web Presence
 
