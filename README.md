@@ -6,10 +6,10 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (4 days ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (4 days ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (5 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (5 days ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (3 weeks ago)
-- [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (4 weeks ago)
+- [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (1 month ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
 
@@ -50,15 +50,15 @@
 
 #### ⭐ Recent Stars
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (5 days ago)
-- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (1 week ago)
-- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (1 week ago)
-- [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (1 week ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (6 days ago)
+- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (2 weeks ago)
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (2 weeks ago)
+- [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (2 weeks ago)
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. (2 weeks ago)
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms. (2 weeks ago)
 - [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it! (2 weeks ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 weeks ago)
-- [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (2 weeks ago)
+- [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (3 weeks ago)
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications (1 month ago)
 
 #### 📫 Web Presence
