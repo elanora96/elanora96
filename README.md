@@ -6,9 +6,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (6 days ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (6 days ago)
-- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (3 weeks ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (1 day ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 week ago)
+- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (4 weeks ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (1 month ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
