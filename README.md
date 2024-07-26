@@ -6,7 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (1 day ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 day ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (2 days ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 week ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (4 weeks ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (1 month ago)
@@ -15,6 +16,7 @@
 
 #### 🌱 My latest projects
 
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - 
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - 
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - 
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template
@@ -24,7 +26,6 @@
 - [elanora96/sop_search](https://github.com/elanora96/sop_search) - 
 - [elanora96/spotifyalbumcleaner](https://github.com/elanora96/spotifyalbumcleaner) - 
 - [elanora96/The-Great-Linkerator](https://github.com/elanora96/The-Great-Linkerator) - 
-- [elanora96/Fitness_Tracker_React](https://github.com/elanora96/Fitness_Tracker_React) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -34,7 +35,7 @@
 
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 weeks ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 weeks ago)
-- [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (3 weeks ago)
+- [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (4 weeks ago)
 - [Moved data to it&#39;s own file, added basic cart](https://github.com/akleventis/united_house_productions/pull/5) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Group by month in events](https://github.com/akleventis/united_house_productions/pull/4) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Basic shopping cart modal](https://github.com/akleventis/united_house_productions/pull/3) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
@@ -55,9 +56,9 @@
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (2 weeks ago)
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (2 weeks ago)
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. (2 weeks ago)
-- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms. (2 weeks ago)
-- [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it! (2 weeks ago)
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 weeks ago)
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms. (3 weeks ago)
+- [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it! (3 weeks ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 weeks ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (3 weeks ago)
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications (1 month ago)
 
