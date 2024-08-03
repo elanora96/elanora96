@@ -6,14 +6,14 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (1 day ago)
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 days ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (3 days ago)
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (4 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 day ago)
+- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (2 days ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (4 days ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (5 days ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (1 month ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (1 month ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (1 month ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -52,16 +52,16 @@
 
 #### ⭐ Recent Stars
 
+- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#39; 720X720 TFT display (1 day ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (3 weeks ago)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (3 weeks ago)
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (3 weeks ago)
-- [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. (3 weeks ago)
+- [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. (4 weeks ago)
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms. (4 weeks ago)
 - [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it! (4 weeks ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (4 weeks ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (1 month ago)
-- [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications (2 months ago)
 
 #### 📫 Web Presence
 
