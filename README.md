@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 days ago)
-- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (5 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (3 days ago)
+- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (6 days ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (1 week ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (1 month ago)
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (4 weeks ago)
-- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (4 weeks ago)
+- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (1 month ago)
+- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (1 month ago)
 - [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (1 month ago)
 - [Moved data to it&#39;s own file, added basic cart](https://github.com/akleventis/united_house_productions/pull/5) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Group by month in events](https://github.com/akleventis/united_house_productions/pull/4) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
@@ -47,13 +47,13 @@
 
 #### 📓 Gists I wrote
 
-- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (3 weeks ago)
+- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (4 weeks ago)
 - [jsonresume resume with contact info redacted](https://gist.github.com/f24a89e59871116e57c51869139f6276) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (4 days ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
+- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (5 days ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 weeks ago)
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (4 weeks ago)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (4 weeks ago)
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (4 weeks ago)
