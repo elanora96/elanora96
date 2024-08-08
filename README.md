@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (3 days ago)
-- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (6 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (4 days ago)
+- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (1 week ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (1 week ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (1 month ago)
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
-- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (5 days ago)
+- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (6 days ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 weeks ago)
-- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (4 weeks ago)
-- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (4 weeks ago)
-- [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (4 weeks ago)
+- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (1 month ago)
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (1 month ago)
+- [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers (1 month ago)
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at. (1 month ago)
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms. (1 month ago)
 - [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it! (1 month ago)
