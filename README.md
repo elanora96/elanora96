@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (4 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (5 days ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (1 week ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (1 week ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
@@ -47,12 +47,12 @@
 
 #### 📓 Gists I wrote
 
-- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (4 weeks ago)
+- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (1 month ago)
 - [jsonresume resume with contact info redacted](https://gist.github.com/f24a89e59871116e57c51869139f6276) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (6 days ago)
+- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (1 week ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 weeks ago)
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (1 month ago)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (1 month ago)
