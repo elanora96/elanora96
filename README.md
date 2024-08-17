@@ -6,7 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (3 days ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (1 day ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (4 days ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 week ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (2 weeks ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (2 weeks ago)
@@ -17,6 +18,7 @@
 
 #### 🌱 My latest projects
 
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - 
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - 
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - 
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - 
@@ -26,7 +28,6 @@
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) - 
 - [elanora96/sop_search](https://github.com/elanora96/sop_search) - 
 - [elanora96/spotifyalbumcleaner](https://github.com/elanora96/spotifyalbumcleaner) - 
-- [elanora96/The-Great-Linkerator](https://github.com/elanora96/The-Great-Linkerator) - 
 
 #### 🔭 Latest releases I've contributed to
 
