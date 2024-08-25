@@ -6,10 +6,10 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 days ago)
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (2 days ago)
-- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (1 week ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 weeks ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (2 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (3 days ago)
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (3 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (3 weeks ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (3 weeks ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 weeks ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (3 weeks ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 2 days ago) - Add the source article to MSN News
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 3 days ago) - Add the source article to MSN News
 - [wincent/command-t](https://github.com/wincent/command-t) ([6.0.0-b.1](https://github.com/wincent/command-t/releases/tag/6.0.0-b.1), 2 years ago) - ⌨️ Fast file navigation for Neovim and Vim
 
 #### 🔨 My recent Pull Requests
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (3 days ago)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (6 days ago)
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (4 days ago)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
 - [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (1 week ago)
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections. (2 weeks ago)
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (3 weeks ago)
