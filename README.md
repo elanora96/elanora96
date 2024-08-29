@@ -6,12 +6,12 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 days ago)
-- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 days ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (6 days ago)
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (6 days ago)
-- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (3 weeks ago)
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (4 weeks ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (3 days ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (4 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (1 week ago)
+- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (4 weeks ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (1 month ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 month ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (2 months ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (2 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 6 days ago) - Add the source article to MSN News
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 1 week ago) - Add the source article to MSN News
 - [wincent/command-t](https://github.com/wincent/command-t) ([6.0.0-b.1](https://github.com/wincent/command-t/releases/tag/6.0.0-b.1), 2 years ago) - ⌨️ Fast file navigation for Neovim and Vim
 
 #### 🔨 My recent Pull Requests
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 days ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 days ago)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (3 days ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (3 days ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (1 week ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
 - [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (1 week ago)
