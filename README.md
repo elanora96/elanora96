@@ -6,13 +6,13 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 weeks ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 weeks ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (1 month ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (1 month ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (1 month ago)
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 month ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (3 months ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (3 months ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (3 months ago)
