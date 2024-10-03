@@ -15,7 +15,7 @@
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (3 months ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (3 months ago)
-- [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (3 months ago)
+- [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (4 months ago)
 
 #### 🌱 My latest projects
 
