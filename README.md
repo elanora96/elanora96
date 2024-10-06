@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 day ago)
-- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (1 day ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 days ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (2 days ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (1 month ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (2 months ago)
@@ -37,8 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 months ago)
-- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 months ago)
+- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (3 months ago)
+- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (3 months ago)
 - [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (3 months ago)
 - [Moved data to it&#39;s own file, added basic cart](https://github.com/akleventis/united_house_productions/pull/5) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Group by month in events](https://github.com/akleventis/united_house_productions/pull/4) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
