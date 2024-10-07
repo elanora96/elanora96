@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 days ago)
-- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (2 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (3 days ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 days ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (1 month ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (2 months ago)
@@ -62,8 +62,8 @@
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections. (1 month ago)
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (2 months ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 months ago)
-- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (2 months ago)
-- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (2 months ago)
+- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (3 months ago)
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient. (3 months ago)
 
 #### 📫 Web Presence
 
