@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (4 days ago)
-- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (4 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (5 days ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (5 days ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (1 month ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (2 months ago)
