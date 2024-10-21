@@ -6,15 +6,15 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (6 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (2 weeks ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (1 month ago)
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (2 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (2 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (2 months ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (3 months ago)
-- [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (3 months ago)
+- [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (4 months ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 1 month ago) - Add the source article to MSN News
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 2 months ago) - Add the source article to MSN News
 - [wincent/command-t](https://github.com/wincent/command-t) ([6.0.0-b.1](https://github.com/wincent/command-t/releases/tag/6.0.0-b.1), 2 years ago) - ⌨️ Fast file navigation for Neovim and Vim
 
 #### 🔨 My recent Pull Requests
@@ -50,6 +50,7 @@
 
 #### 📓 Gists I wrote
 
+- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (1 day ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (3 months ago)
 
 #### ⭐ Recent Stars
