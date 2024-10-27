@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (5 days ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (6 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 weeks ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
@@ -50,12 +50,12 @@
 
 #### 📓 Gists I wrote
 
-- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (6 days ago)
+- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (1 week ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (4 days ago)
+- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (5 days ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (2 months ago)
