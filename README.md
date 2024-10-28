@@ -6,13 +6,13 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (6 days ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 weeks ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 weeks ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (2 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (2 months ago)
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (2 months ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (4 months ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (4 months ago)
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (4 months ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (5 days ago)
+- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (6 days ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (2 months ago)
