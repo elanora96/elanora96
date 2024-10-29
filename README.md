@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (6 days ago)
+- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (1 week ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (2 months ago)
