@@ -11,7 +11,7 @@
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 weeks ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (2 months ago)
-- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (2 months ago)
+- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (3 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (4 months ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (4 months ago)
@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (1 day ago)
 - [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (1 week ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
@@ -64,7 +65,6 @@
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections. (2 months ago)
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (2 months ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 months ago)
-- [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells. (3 months ago)
 
 #### 📫 Web Presence
 
