@@ -15,7 +15,7 @@
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (4 months ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (4 months ago)
-- [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (4 months ago)
+- [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (3 days ago)
+- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (4 days ago)
 - [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (1 week ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
