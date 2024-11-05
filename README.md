@@ -37,8 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (3 months ago)
-- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (3 months ago)
+- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (4 months ago)
+- [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (4 months ago)
 - [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (4 months ago)
 - [Moved data to it&#39;s own file, added basic cart](https://github.com/akleventis/united_house_productions/pull/5) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Group by month in events](https://github.com/akleventis/united_house_productions/pull/4) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
@@ -55,9 +55,9 @@
 
 #### ⭐ Recent Stars
 
-- [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (2 days ago)
-- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (6 days ago)
-- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (1 week ago)
+- [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (3 days ago)
+- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (1 week ago)
+- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (2 weeks ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (2 months ago)
