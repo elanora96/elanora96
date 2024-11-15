@@ -6,16 +6,16 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (6 days ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (6 days ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 week ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (1 month ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (2 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (3 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 months ago)
+- [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (4 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (4 months ago)
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (4 months ago)
-- [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) -  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -62,7 +62,7 @@
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (2 months ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 months ago)
-- [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (2 months ago)
+- [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (3 months ago)
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections. (3 months ago)
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4&#34; 720X720 TFT display (3 months ago)
 
