@@ -50,12 +50,12 @@
 
 #### 📓 Gists I wrote
 
-- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (3 weeks ago)
+- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (4 weeks ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (1 day ago)
+- [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (2 days ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (2 weeks ago)
 - [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (2 weeks ago)
 - [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (3 weeks ago)
