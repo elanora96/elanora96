@@ -6,9 +6,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 days ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 week ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 weeks ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (1 month ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (2 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (3 months ago)
@@ -50,18 +50,18 @@
 
 #### 📓 Gists I wrote
 
-- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (4 weeks ago)
+- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (1 month ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (3 days ago)
+- [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (4 days ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (2 weeks ago)
-- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (2 weeks ago)
-- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (3 weeks ago)
+- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (3 weeks ago)
+- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (4 weeks ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (2 months ago)
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (3 months ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 months ago)
 - [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (3 months ago)
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections. (3 months ago)
