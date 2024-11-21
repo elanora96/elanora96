@@ -6,7 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (3 days ago)
+- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (4 days ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 week ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (1 month ago)
@@ -15,10 +16,10 @@
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 months ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (4 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (4 months ago)
-- [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template (5 months ago)
 
 #### 🌱 My latest projects
 
+- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - 
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - 
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - 
@@ -28,7 +29,6 @@
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) - 
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - 
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) - 
-- [elanora96/sop_search](https://github.com/elanora96/sop_search) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -55,10 +55,10 @@
 
 #### ⭐ Recent Stars
 
-- [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (5 days ago)
+- [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (6 days ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (2 weeks ago)
 - [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (3 weeks ago)
-- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (4 weeks ago)
+- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (1 month ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (3 months ago)
