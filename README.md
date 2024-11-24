@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (1 day ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (6 days ago)
+- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 weeks ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 weeks ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (1 month ago)
@@ -15,7 +15,7 @@
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (3 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (3 months ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (4 months ago)
-- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (4 months ago)
+- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -59,8 +59,8 @@
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (3 weeks ago)
 - [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (3 weeks ago)
 - [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (1 month ago)
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (3 months ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (3 months ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (3 months ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 months ago)
 - [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (3 months ago)
