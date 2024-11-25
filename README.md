@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 days ago)
+- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (3 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 weeks ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 weeks ago)
@@ -39,7 +39,7 @@
 
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (4 months ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (4 months ago)
-- [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (4 months ago)
+- [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (5 months ago)
 - [Moved data to it&#39;s own file, added basic cart](https://github.com/akleventis/united_house_productions/pull/5) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Group by month in events](https://github.com/akleventis/united_house_productions/pull/4) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Basic shopping cart modal](https://github.com/akleventis/united_house_productions/pull/3) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
