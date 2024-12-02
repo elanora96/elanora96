@@ -55,9 +55,9 @@
 
 #### ⭐ Recent Stars
 
-- [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (1 day ago)
+- [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (2 days ago)
 - [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (2 weeks ago)
-- [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (4 weeks ago)
+- [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (1 month ago)
 - [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (1 month ago)
 - [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (1 month ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (3 months ago)
