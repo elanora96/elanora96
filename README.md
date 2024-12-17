@@ -7,7 +7,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (3 weeks ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (4 weeks ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 month ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (2 months ago)
