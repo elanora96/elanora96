@@ -55,16 +55,16 @@
 
 #### ⭐ Recent Stars
 
-- [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (2 weeks ago)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 day ago)
+- [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (3 weeks ago)
 - [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (1 month ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (1 month ago)
 - [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (1 month ago)
-- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (1 month ago)
+- [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (2 months ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (3 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (3 months ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (4 months ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (4 months ago)
-- [rfinnie/blockbuster](https://github.com/rfinnie/blockbuster) - Blockbuster Video VHS insert template (4 months ago)
 
 #### 📫 Web Presence
 
