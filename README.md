@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (4 weeks ago)
+- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 month ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 day ago)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (2 days ago)
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (3 weeks ago)
 - [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (1 month ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (1 month ago)
