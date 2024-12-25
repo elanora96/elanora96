@@ -39,7 +39,7 @@
 
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (5 months ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (5 months ago)
-- [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (5 months ago)
+- [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (6 months ago)
 - [Moved data to it&#39;s own file, added basic cart](https://github.com/akleventis/united_house_productions/pull/5) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Group by month in events](https://github.com/akleventis/united_house_productions/pull/4) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
 - [Basic shopping cart modal](https://github.com/akleventis/united_house_productions/pull/3) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (2 years ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (4 days ago)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (5 days ago)
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (3 weeks ago)
 - [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (1 month ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (1 month ago)
