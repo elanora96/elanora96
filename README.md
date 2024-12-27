@@ -13,7 +13,7 @@
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (2 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (4 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (4 months ago)
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (4 months ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (5 months ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (5 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (6 months ago)
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (6 days ago)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 week ago)
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (3 weeks ago)
 - [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (1 month ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (1 month ago)
