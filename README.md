@@ -56,10 +56,10 @@
 #### ⭐ Recent Stars
 
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 week ago)
-- [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (3 weeks ago)
+- [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (4 weeks ago)
 - [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (1 month ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (1 month ago)
-- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (1 month ago)
+- [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) - Lean and powerful adblocking solution for OpenWrt (2 months ago)
 - [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator. (2 months ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (4 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (4 months ago)
