@@ -12,7 +12,7 @@
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (2 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (4 months ago)
-- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (4 months ago)
+- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (5 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (5 months ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (5 months ago)
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (6 months ago)
