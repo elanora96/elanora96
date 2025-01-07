@@ -8,8 +8,8 @@
 
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 month ago)
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 month ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (4 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (5 months ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) -  IOS Remote for Mac  (4 days ago)
+- [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) -  IOS Remote for Mac  (5 days ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 week ago)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (2 weeks ago)
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (1 month ago)
