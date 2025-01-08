@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) -  IOS Remote for Mac  (5 days ago)
+- [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) -  IOS Remote for Mac  (6 days ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 week ago)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (2 weeks ago)
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (1 month ago)
