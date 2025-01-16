@@ -7,7 +7,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (1 month ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 month ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 months ago)
@@ -55,10 +55,10 @@
 
 #### ⭐ Recent Stars
 
-- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (1 day ago)
-- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (2 days ago)
+- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (2 days ago)
+- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (3 days ago)
 - [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (1 week ago)
-- [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network IOS remote for Macbooks (1 week ago)
+- [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network IOS remote for Macbooks (2 weeks ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (2 weeks ago)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (3 weeks ago)
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (1 month ago)
