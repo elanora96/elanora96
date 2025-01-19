@@ -11,7 +11,7 @@
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 months ago)
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (4 months ago)
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (5 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (5 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (5 months ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (6 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 4 months ago) - Add the source article to MSN News
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 5 months ago) - Add the source article to MSN News
 - [wincent/command-t](https://github.com/wincent/command-t) ([6.0.0-b.1](https://github.com/wincent/command-t/releases/tag/6.0.0-b.1), 2 years ago) - ⌨️ Fast file navigation for Neovim and Vim
 
 #### 🔨 My recent Pull Requests
@@ -55,12 +55,12 @@
 
 #### ⭐ Recent Stars
 
-- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (4 days ago)
-- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (5 days ago)
+- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (5 days ago)
+- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (6 days ago)
 - [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (1 week ago)
 - [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network IOS remote for Macbooks (2 weeks ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (2 weeks ago)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (4 weeks ago)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 month ago)
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (1 month ago)
 - [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (2 months ago)
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (2 months ago)
