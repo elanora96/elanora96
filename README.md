@@ -6,19 +6,20 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 day ago)
-- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (1 month ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 day ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 days ago)
+- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 months ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 months ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (5 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (5 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (5 months ago)
 - [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (6 months ago)
-- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim (6 months ago)
 
 #### 🌱 My latest projects
 
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - 
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - 
@@ -28,7 +29,6 @@
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) - 
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - 
-- [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -55,8 +55,9 @@
 
 #### ⭐ Recent Stars
 
-- [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis] (1 day ago)
-- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (6 days ago)
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (1 day ago)
+- [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis] (2 days ago)
+- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (1 week ago)
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (1 week ago)
 - [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (1 week ago)
 - [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network IOS remote for Macbooks (2 weeks ago)
@@ -64,7 +65,6 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 month ago)
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) -  (1 month ago)
 - [cujomalainey/ant-rs](https://github.com/cujomalainey/ant-rs) - ANT, ANT-FS, ANT&#43; for Rust (2 months ago)
-- [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer (2 months ago)
 
 #### 📫 Web Presence
 
