@@ -6,12 +6,12 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 days ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (5 days ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (5 days ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (2 days ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (3 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (6 days ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
-- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (3 months ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (4 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (5 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (6 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (6 months ago)
@@ -55,14 +55,14 @@
 
 #### ⭐ Recent Stars
 
-- [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (6 days ago)
+- [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (1 week ago)
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (1 week ago)
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (1 week ago)
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis] (1 week ago)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (2 weeks ago)
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (2 weeks ago)
 - [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (3 weeks ago)
-- [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network remote for Macbooks (4 weeks ago)
+- [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network remote for Macbooks (1 month ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 month ago)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 month ago)
 
