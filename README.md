@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (2 days ago)
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (6 days ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 days ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (2 months ago)
@@ -51,17 +51,17 @@
 #### 📓 Gists I wrote
 
 - [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (3 months ago)
-- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (6 months ago)
+- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (7 months ago)
 
 #### ⭐ Recent Stars
 
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (1 week ago)
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (1 week ago)
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (2 weeks ago)
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (2 weeks ago)
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis] (2 weeks ago)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (3 weeks ago)
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (3 weeks ago)
-- [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (3 weeks ago)
+- [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (4 weeks ago)
 - [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network remote for Macbooks (1 month ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 month ago)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 month ago)
