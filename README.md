@@ -6,7 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (4 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) -  (1 day ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (5 days ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (1 week ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 months ago)
@@ -15,10 +16,10 @@
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (5 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (6 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) -  (6 months ago)
-- [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) -  (7 months ago)
 
 #### 🌱 My latest projects
 
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - 
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - 
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News
@@ -28,7 +29,6 @@
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - 
 - [elanora96/enhanced-learning-and-listening-interactive-entity](https://github.com/elanora96/enhanced-learning-and-listening-interactive-entity) - A discord.js bot based on NamVr/DiscordBot-Template
 - [elanora96/git-deadname-removal](https://github.com/elanora96/git-deadname-removal) - 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -55,14 +55,14 @@
 
 #### ⭐ Recent Stars
 
-- [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth. (today)
+- [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth. (1 day ago)
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (1 week ago)
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (2 weeks ago)
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (2 weeks ago)
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis] (2 weeks ago)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (3 weeks ago)
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (3 weeks ago)
-- [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (4 weeks ago)
+- [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (1 month ago)
 - [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network remote for Macbooks (1 month ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 month ago)
 
