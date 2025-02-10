@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) -  (2 days ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) -  (3 days ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (4 days ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (1 week ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 weeks ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 months ago)
@@ -55,13 +55,13 @@
 
 #### ⭐ Recent Stars
 
-- [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth. (3 days ago)
+- [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth. (4 days ago)
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (2 weeks ago)
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (2 weeks ago)
-- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (2 weeks ago)
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust. (3 weeks ago)
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis] (3 weeks ago)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (3 weeks ago)
-- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (3 weeks ago)
+- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (4 weeks ago)
 - [racenis/tram-sdk](https://github.com/racenis/tram-sdk) - Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators (1 month ago)
 - [akleventis/lan_mac_remote](https://github.com/akleventis/lan_mac_remote) - Local area network remote for Macbooks (1 month ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 month ago)
