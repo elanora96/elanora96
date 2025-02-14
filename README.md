@@ -6,12 +6,12 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) -  (6 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (1 day ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) -  (1 week ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 week ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) -  (2 weeks ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) -  (2 weeks ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) -  (2 months ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) -  (3 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) -  (4 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Add the source article to MSN News (5 months ago)
 - [elanora96/google-job-searcher](https://github.com/elanora96/google-job-searcher) -  (6 months ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file (2 days ago)
+- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file (3 days ago)
 - [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth. (1 week ago)
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI. (2 weeks ago)
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool (3 weeks ago)
