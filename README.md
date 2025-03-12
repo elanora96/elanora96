@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (2 days ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (3 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (1 week ago)
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 weeks ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [mattiasgustavsson/yarnspin](https://github.com/mattiasgustavsson/yarnspin) - A simple story-telling game engine (1 week ago)
+- [mattiasgustavsson/yarnspin](https://github.com/mattiasgustavsson/yarnspin) - A simple story-telling game engine (2 weeks ago)
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro (2 weeks ago)
 - [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast (2 weeks ago)
 - [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag.  (3 weeks ago)
