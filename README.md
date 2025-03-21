@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (6 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
 - [elanora96/gohugo-theme-rancho-de-velo](https://github.com/elanora96/gohugo-theme-rancho-de-velo) - A Gohugo theme reminiscient of a cycling agricultural past. (1 week ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (1 week ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 weeks ago)
@@ -55,7 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers (2 days ago)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (today)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers (3 days ago)
 - [mattiasgustavsson/yarnspin](https://github.com/mattiasgustavsson/yarnspin) - A simple story-telling game engine (3 weeks ago)
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro (3 weeks ago)
 - [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast (3 weeks ago)
@@ -64,7 +65,6 @@
 - [hristo2612/SQLNoir](https://github.com/hristo2612/SQLNoir) - Solve mysteries through SQL. (1 month ago)
 - [ciupava/maptcha_dev](https://github.com/ciupava/maptcha_dev) - Experiments for developing Maptcha (1 month ago)
 - [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file (1 month ago)
-- [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth. (1 month ago)
 
 #### 📫 Web Presence
 
