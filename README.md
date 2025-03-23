@@ -8,7 +8,7 @@
 
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
 - [elanora96/gohugo-theme-rancho-de-velo](https://github.com/elanora96/gohugo-theme-rancho-de-velo) - A Gohugo theme reminiscient of a cycling agricultural past. (1 week ago)
-- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (1 week ago)
+- [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (2 weeks ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 weeks ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 month ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (1 month ago)
@@ -55,10 +55,10 @@
 
 #### ⭐ Recent Stars
 
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (1 day ago)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers (4 days ago)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (2 days ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers (5 days ago)
 - [mattiasgustavsson/yarnspin](https://github.com/mattiasgustavsson/yarnspin) - A simple story-telling game engine (3 weeks ago)
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro (3 weeks ago)
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro (4 weeks ago)
 - [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast (4 weeks ago)
 - [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag.  (1 month ago)
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!  (1 month ago)
