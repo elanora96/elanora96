@@ -64,7 +64,7 @@
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!  (1 month ago)
 - [hristo2612/SQLNoir](https://github.com/hristo2612/SQLNoir) - Solve mysteries through SQL. (1 month ago)
 - [ciupava/maptcha_dev](https://github.com/ciupava/maptcha_dev) - Experiments for developing Maptcha (1 month ago)
-- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file (1 month ago)
+- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file (2 months ago)
 
 #### 📫 Web Presence
 
