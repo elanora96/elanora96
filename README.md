@@ -50,12 +50,13 @@
 
 #### 📓 Gists I wrote
 
-- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (5 months ago)
+- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (6 months ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (3 weeks ago)
+- [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library. (1 day ago)
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (4 weeks ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers (1 month ago)
 - [mattiasgustavsson/yarnspin](https://github.com/mattiasgustavsson/yarnspin) - A simple story-telling game engine (1 month ago)
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro (1 month ago)
@@ -64,7 +65,6 @@
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!  (2 months ago)
 - [hristo2612/SQLNoir](https://github.com/hristo2612/SQLNoir) - Solve mysteries through SQL. (2 months ago)
 - [ciupava/maptcha_dev](https://github.com/ciupava/maptcha_dev) - Experiments for developing Maptcha (2 months ago)
-- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax) - A Python library to inspect and modify the internal structure of a PDF file (2 months ago)
 
 #### 📫 Web Presence
 
