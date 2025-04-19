@@ -15,7 +15,7 @@
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - A mdbook for Portland, OR metro area resources (2 months ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - Attempted React and three.js countdown, may revisit (4 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - Typescript React and Vite site for a campaign for Chef Rick&#39;s Ultimately Fine Foods Inc. (6 months ago)
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Userscript to add the source article to MSN News (7 months ago)
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Userscript to add the source article to MSN News (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 7 months ago) - Userscript to add the source article to MSN News
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 8 months ago) - Userscript to add the source article to MSN News
 - [wincent/command-t](https://github.com/wincent/command-t) ([6.0.0-b.1](https://github.com/wincent/command-t/releases/tag/6.0.0-b.1), 2 years ago) - ⌨️ Fast file navigation for Neovim and Vim
 
 #### 🔨 My recent Pull Requests
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library. (1 day ago)
+- [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library. (2 days ago)
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (4 weeks ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers (1 month ago)
 - [mattiasgustavsson/yarnspin](https://github.com/mattiasgustavsson/yarnspin) - A simple story-telling game engine (1 month ago)
