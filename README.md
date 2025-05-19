@@ -6,9 +6,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 weeks ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 weeks ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (3 weeks ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 weeks ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (4 weeks ago)
 - [elanora96/gohugo-theme-rancho-de-velo](https://github.com/elanora96/gohugo-theme-rancho-de-velo) - A Gohugo theme reminiscient of a cycling agricultural past. (2 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (2 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 8 months ago) - Userscript to add the source article to MSN News
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 9 months ago) - Userscript to add the source article to MSN News
 - [wincent/command-t](https://github.com/wincent/command-t) ([6.0.0-b.1](https://github.com/wincent/command-t/releases/tag/6.0.0-b.1), 2 years ago) - ⌨️ Fast file navigation for Neovim and Vim
 
 #### 🔨 My recent Pull Requests
@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (1 day ago)
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (3 weeks ago)
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA&#39;s NVDEC (3 weeks ago)
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code (3 weeks ago)
@@ -64,7 +65,6 @@
 - [mattiasgustavsson/yarnspin](https://github.com/mattiasgustavsson/yarnspin) - A simple story-telling game engine (2 months ago)
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro (2 months ago)
 - [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast (2 months ago)
-- [awaseem/foqos](https://github.com/awaseem/foqos) - Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code  (3 months ago)
 
 #### 📫 Web Presence
 
