@@ -8,13 +8,13 @@
 
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 weeks ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (3 weeks ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (4 weeks ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (1 month ago)
 - [elanora96/gohugo-theme-rancho-de-velo](https://github.com/elanora96/gohugo-theme-rancho-de-velo) - A Gohugo theme reminiscient of a cycling agricultural past. (2 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (2 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (3 months ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - A mdbook for Portland, OR metro area resources (3 months ago)
-- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - Attempted React and three.js countdown, may revisit (5 months ago)
+- [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - Attempted React and three.js countdown, may revisit (6 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - Typescript React and Vite site for a campaign for Chef Rick&#39;s Ultimately Fine Foods Inc. (7 months ago)
 
 #### 🌱 My latest projects
@@ -55,16 +55,16 @@
 
 #### ⭐ Recent Stars
 
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (2 days ago)
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (1 day ago)
+- [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (1 day ago)
+- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (1 day ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (3 days ago)
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (3 weeks ago)
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA&#39;s NVDEC (4 weeks ago)
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code (4 weeks ago)
 - [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library. (1 month ago)
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops (2 months ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 months ago)
-- [mattiasgustavsson/yarnspin](https://github.com/mattiasgustavsson/yarnspin) - A simple story-telling game engine (2 months ago)
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro (2 months ago)
-- [adriankarlen/textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast (2 months ago)
 
 #### 📫 Web Presence
 
