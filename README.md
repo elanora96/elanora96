@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (4 weeks ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 month ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (1 month ago)
 - [elanora96/gohugo-theme-rancho-de-velo](https://github.com/elanora96/gohugo-theme-rancho-de-velo) - A Gohugo theme reminiscient of a cycling agricultural past. (2 months ago)
