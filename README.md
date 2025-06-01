@@ -15,7 +15,7 @@
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (3 months ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - A mdbook for Portland, OR metro area resources (4 months ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - Attempted React and three.js countdown, may revisit (6 months ago)
-- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - Typescript React and Vite site for a campaign for Chef Rick&#39;s Ultimately Fine Foods Inc. (7 months ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - Typescript React and Vite site for a campaign for Chef Rick&#39;s Ultimately Fine Foods Inc. (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -58,7 +58,7 @@
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (1 week ago)
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (1 week ago)
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (1 week ago)
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (1 week ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (2 weeks ago)
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (1 month ago)
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA&#39;s NVDEC (1 month ago)
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code (1 month ago)
