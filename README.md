@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (2 days ago)
-- [infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io](https://github.com/infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io) -  (4 days ago)
+- [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (3 days ago)
+- [infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io](https://github.com/infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io) -  (5 days ago)
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (3 weeks ago)
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (3 weeks ago)
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (3 weeks ago)
