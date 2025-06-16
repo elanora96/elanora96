@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wincent/command-t](https://github.com/wincent/command-t) ([6.1](https://github.com/wincent/command-t/releases/tag/6.1), 1 day ago) - ⌨️ Fast file navigation for Neovim and Vim
+- [wincent/command-t](https://github.com/wincent/command-t) ([6.1](https://github.com/wincent/command-t/releases/tag/6.1), 2 days ago) - ⌨️ Fast file navigation for Neovim and Vim
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 9 months ago) - Userscript to add the source article to MSN News
 
 #### 🔨 My recent Pull Requests
@@ -64,7 +64,7 @@
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (1 month ago)
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA&#39;s NVDEC (1 month ago)
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code (1 month ago)
-- [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library. (1 month ago)
+- [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library. (2 months ago)
 
 #### 📫 Web Presence
 
