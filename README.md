@@ -32,8 +32,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wincent/command-t](https://github.com/wincent/command-t) ([6.1](https://github.com/wincent/command-t/releases/tag/6.1), 3 days ago) - ⌨️ Fast file navigation for Neovim and Vim
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 9 months ago) - Userscript to add the source article to MSN News
+- [wincent/command-t](https://github.com/wincent/command-t) ([6.1](https://github.com/wincent/command-t/releases/tag/6.1), 4 days ago) - ⌨️ Fast file navigation for Neovim and Vim
+- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 10 months ago) - Userscript to add the source article to MSN News
 
 #### 🔨 My recent Pull Requests
 
