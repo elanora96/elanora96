@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wincent/command-t](https://github.com/wincent/command-t) ([6.1](https://github.com/wincent/command-t/releases/tag/6.1), 4 days ago) - ⌨️ Fast file navigation for Neovim and Vim
+- [wincent/command-t](https://github.com/wincent/command-t) ([6.1](https://github.com/wincent/command-t/releases/tag/6.1), 5 days ago) - ⌨️ Fast file navigation for Neovim and Vim
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 10 months ago) - Userscript to add the source article to MSN News
 
 #### 🔨 My recent Pull Requests
@@ -55,16 +55,16 @@
 
 #### ⭐ Recent Stars
 
+- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (1 day ago)
 - [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (1 week ago)
 - [infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io](https://github.com/infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io) -  (1 week ago)
-- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (4 weeks ago)
-- [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (4 weeks ago)
-- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (4 weeks ago)
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (1 month ago)
+- [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (1 month ago)
+- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (1 month ago)
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (1 month ago)
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (1 month ago)
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA&#39;s NVDEC (1 month ago)
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code (1 month ago)
-- [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library. (2 months ago)
 
 #### 📫 Web Presence
 
