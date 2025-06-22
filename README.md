@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (3 days ago)
-- [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (1 week ago)
+- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (4 days ago)
+- [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (2 weeks ago)
 - [infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io](https://github.com/infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io) -  (2 weeks ago)
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (1 month ago)
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (1 month ago)
