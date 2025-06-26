@@ -7,7 +7,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 month ago)
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (1 month ago)
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (2 months ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 months ago)
 - [elanora96/gohugo-theme-rancho-de-velo](https://github.com/elanora96/gohugo-theme-rancho-de-velo) - A Gohugo theme reminiscient of a cycling agricultural past. (3 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (3 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wincent/command-t](https://github.com/wincent/command-t) ([7.0](https://github.com/wincent/command-t/releases/tag/7.0), 2 days ago) - ⌨️ Fast file navigation for Neovim and Vim
+- [wincent/command-t](https://github.com/wincent/command-t) ([7.0](https://github.com/wincent/command-t/releases/tag/7.0), 3 days ago) - ⌨️ Fast file navigation for Neovim and Vim
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 10 months ago) - Userscript to add the source article to MSN News
 
 #### 🔨 My recent Pull Requests
