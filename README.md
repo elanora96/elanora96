@@ -13,7 +13,7 @@
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (3 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (4 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (4 months ago)
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - A mdbook for Portland, OR metro area resources (4 months ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - A mdbook for Portland, OR metro area resources (5 months ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - Attempted React and three.js countdown, may revisit (7 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - Typescript React and Vite site for a campaign for Chef Rick&#39;s Ultimately Fine Foods Inc. (8 months ago)
 
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wincent/command-t](https://github.com/wincent/command-t) ([8.0](https://github.com/wincent/command-t/releases/tag/8.0), 1 day ago) - ⌨️ Fast file navigation for Neovim and Vim
+- [wincent/command-t](https://github.com/wincent/command-t) ([8.0](https://github.com/wincent/command-t/releases/tag/8.0), 2 days ago) - ⌨️ Fast file navigation for Neovim and Vim
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 10 months ago) - Userscript to add the source article to MSN News
 
 #### 🔨 My recent Pull Requests
