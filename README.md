@@ -54,6 +54,8 @@
 
 #### ⭐ Recent Stars
 
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (1 day ago)
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (1 day ago)
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (1 week ago)
 - [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (3 weeks ago)
 - [infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io](https://github.com/infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io) -  (3 weeks ago)
@@ -62,8 +64,6 @@
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (1 month ago)
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (1 month ago)
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (2 months ago)
-- [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA&#39;s NVDEC (2 months ago)
-- [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code (2 months ago)
 
 #### 📫 Web Presence
 
