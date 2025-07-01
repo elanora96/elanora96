@@ -15,7 +15,7 @@
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (4 months ago)
 - [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - A mdbook for Portland, OR metro area resources (5 months ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - Attempted React and three.js countdown, may revisit (7 months ago)
-- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - Typescript React and Vite site for a campaign for Chef Rick&#39;s Ultimately Fine Foods Inc. (8 months ago)
+- [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - Typescript React and Vite site for a campaign for Chef Rick&#39;s Ultimately Fine Foods Inc. (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (1 day ago)
-- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (1 day ago)
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (2 days ago)
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (2 days ago)
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (1 week ago)
 - [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (3 weeks ago)
 - [infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io](https://github.com/infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io) -  (3 weeks ago)
