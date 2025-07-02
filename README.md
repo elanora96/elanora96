@@ -54,9 +54,9 @@
 
 #### ⭐ Recent Stars
 
-- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (2 days ago)
-- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (2 days ago)
-- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (1 week ago)
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (3 days ago)
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (3 days ago)
+- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (2 weeks ago)
 - [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (3 weeks ago)
 - [infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io](https://github.com/infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io) -  (3 weeks ago)
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (1 month ago)
