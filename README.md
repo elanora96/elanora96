@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 months ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 day ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (2 months ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 months ago)
 - [elanora96/gohugo-theme-rancho-de-velo](https://github.com/elanora96/gohugo-theme-rancho-de-velo) - A Gohugo theme reminiscient of a cycling agricultural past. (3 months ago)
@@ -50,12 +50,13 @@
 #### 📓 Gists I wrote
 
 - [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (8 months ago)
-- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (11 months ago)
+- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (5 days ago)
-- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (5 days ago)
+- [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000&#43; ways to add design flair, user delight, and whimsy to your product. (1 day ago)
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (6 days ago)
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (6 days ago)
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (2 weeks ago)
 - [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (3 weeks ago)
 - [infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io](https://github.com/infirmimaxilla-kurisu/infirmimaxilla-kurisu.github.io) -  (4 weeks ago)
@@ -63,7 +64,6 @@
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (1 month ago)
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (1 month ago)
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (1 month ago)
-- [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (2 months ago)
 
 #### 📫 Web Presence
 
