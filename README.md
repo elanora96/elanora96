@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (6 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (1 week ago)
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (2 months ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 months ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS &#43; nix-darwin &#43; home-manager configuration in a single flake, while providing a consistent interface at DX and UX level. (5 days ago)
+- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS &#43; nix-darwin &#43; home-manager configuration in a single flake, while providing a consistent interface at DX and UX level. (6 days ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 week ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (1 week ago)
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS &amp; tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |  (1 week ago)
@@ -62,7 +62,7 @@
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000&#43; ways to add design flair, user delight, and whimsy to your product. (1 week ago)
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (2 weeks ago)
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (2 weeks ago)
-- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (3 weeks ago)
+- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (4 weeks ago)
 - [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (1 month ago)
 
 #### 📫 Web Presence
