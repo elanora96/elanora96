@@ -49,12 +49,13 @@
 
 #### 📓 Gists I wrote
 
-- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (8 months ago)
+- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (9 months ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS &#43; nix-darwin &#43; home-manager configuration in a single flake, while providing a consistent interface at DX and UX level. (6 days ago)
+- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust (1 day ago)
+- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS &#43; nix-darwin &#43; home-manager configuration in a single flake, while providing a consistent interface at DX and UX level. (1 week ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 week ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (1 week ago)
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS &amp; tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |  (1 week ago)
@@ -63,7 +64,6 @@
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (2 weeks ago)
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (2 weeks ago)
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (4 weeks ago)
-- [SideStore/Altcon](https://github.com/SideStore/Altcon) - AltServer-Linux in a container (1 month ago)
 
 #### 📫 Web Presence
 
