@@ -55,7 +55,7 @@
 #### ⭐ Recent Stars
 
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust (1 week ago)
-- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS &#43; nix-darwin &#43; home-manager configuration in a single flake, while providing a consistent interface at DX and UX level. (1 week ago)
+- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS &#43; nix-darwin &#43; home-manager configuration in a single flake, while providing a consistent interface at DX and UX level. (2 weeks ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (2 weeks ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (2 weeks ago)
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS &amp; tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |  (2 weeks ago)
