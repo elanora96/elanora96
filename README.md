@@ -61,8 +61,8 @@
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS &amp; tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |  (3 weeks ago)
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (3 weeks ago)
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000&#43; ways to add design flair, user delight, and whimsy to your product. (3 weeks ago)
-- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (3 weeks ago)
-- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (3 weeks ago)
+- [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space (4 weeks ago)
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (4 weeks ago)
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16&#43; (1 month ago)
 
 #### 📫 Web Presence
