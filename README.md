@@ -13,7 +13,7 @@
 - [elanora96/gohugo-theme-rancho-de-velo](https://github.com/elanora96/gohugo-theme-rancho-de-velo) - A Gohugo theme reminiscient of a cycling agricultural past. (4 months ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (4 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (5 months ago)
-- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - A mdbook for Portland, OR metro area resources (5 months ago)
+- [elanora96/pdx-resources](https://github.com/elanora96/pdx-resources) - A mdbook for Portland, OR metro area resources (6 months ago)
 - [elanora96/the-countdown](https://github.com/elanora96/the-countdown) - Attempted React and three.js countdown, may revisit (8 months ago)
 - [elanora96/free-chef-ricks](https://github.com/elanora96/free-chef-ricks) - Typescript React and Vite site for a campaign for Chef Rick&#39;s Ultimately Fine Foods Inc. (9 months ago)
 
@@ -56,7 +56,7 @@
 
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust (1 week ago)
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS &#43; nix-darwin &#43; home-manager configuration in a single flake, while providing a consistent interface at DX and UX level. (2 weeks ago)
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (2 weeks ago)
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (3 weeks ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (3 weeks ago)
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS &amp; tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |  (3 weeks ago)
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (3 weeks ago)
