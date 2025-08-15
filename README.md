@@ -58,7 +58,7 @@
 - [anewtypeofinterference/Optician-Sans](https://github.com/anewtypeofinterference/Optician-Sans) - Typeface based on the historical eye charts and optotypes used by opticians world wide. (2 weeks ago)
 - [alexandfinn/node-enigo](https://github.com/alexandfinn/node-enigo) - Node.js binding for Rust enigo library - keyboard and mouse automation with Promise-based API (2 weeks ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (2 weeks ago)
-- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust (4 weeks ago)
+- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust (1 month ago)
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS &#43; nix-darwin &#43; home-manager configuration in a single flake, while providing a consistent interface at DX and UX level. (1 month ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 month ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (1 month ago)
