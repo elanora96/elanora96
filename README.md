@@ -49,7 +49,7 @@
 
 #### 📓 Gists I wrote
 
-- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (9 months ago)
+- [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (10 months ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (1 year ago)
 
 #### ⭐ Recent Stars
