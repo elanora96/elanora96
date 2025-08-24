@@ -32,7 +32,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.2](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.2), 1 year ago) - Userscript to add the source article to MSN News
 
 #### 🔨 My recent Pull Requests
 
