@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (5 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (6 days ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]  (3 weeks ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 month ago)
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 month ago)
@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [zoefiri/rampale](https://github.com/zoefiri/rampale) - color palette generation tool (1 day ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 month ago)
 - [anewtypeofinterference/Optician-Sans](https://github.com/anewtypeofinterference/Optician-Sans) - Typeface based on the historical eye charts and optotypes used by opticians world wide. (1 month ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (1 month ago)
@@ -62,7 +63,6 @@
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (1 month ago)
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS &amp; tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |  (1 month ago)
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (1 month ago)
-- [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000&#43; ways to add design flair, user delight, and whimsy to your product. (1 month ago)
 
 #### 📫 Web Presence
 
