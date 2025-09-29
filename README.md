@@ -6,13 +6,13 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/Recipes](https://github.com/elanora96/Recipes) -  (4 days ago)
-- [elanora96/learning-canvas](https://github.com/elanora96/learning-canvas) - Messing with HTML5 Canvas, might make a sticker or something (5 days ago)
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (6 days ago)
-- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (6 days ago)
+- [elanora96/Recipes](https://github.com/elanora96/Recipes) -  (5 days ago)
+- [elanora96/learning-canvas](https://github.com/elanora96/learning-canvas) - Messing with HTML5 Canvas, might make a sticker or something (6 days ago)
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - elanora96&#39;s Nix Flake templates (1 week ago)
+- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (1 week ago)
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 weeks ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (3 weeks ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 weeks ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (4 weeks ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (1 month ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]  (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (5 months ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 month ago)
+- [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (2 months ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (1 year ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (1 year ago)
 - [fix: fix scanner.c compile error](https://github.com/wincent/command-t/pull/423) on [wincent/command-t](https://github.com/wincent/command-t) (1 year ago)
@@ -54,16 +54,16 @@
 
 #### ⭐ Recent Stars
 
+- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (1 day ago)
+- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (1 day ago)
+- [sinceohsix/lcdl-repo](https://github.com/sinceohsix/lcdl-repo) - An app downloader for LiveContainer built in iOS Shortcuts. (1 day ago)
+- [Dan1elTheMan1el/LiveContainer-Repos](https://github.com/Dan1elTheMan1el/LiveContainer-Repos) - Shortcut to use AltStore repos in LiveContainer (1 day ago)
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete (1 week ago)
 - [jeremy-albinet/Stitch-Revitalized-For-Roku](https://github.com/jeremy-albinet/Stitch-Revitalized-For-Roku) - A Twitch app for Roku (2 weeks ago)
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3&#43; for Photoshop Users (3 weeks ago)
 - [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) - A concise, beginner-friendly introduction to the core ideas of linear algebra. (3 weeks ago)
 - [acheong08/ferroxide](https://github.com/acheong08/ferroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge (3 weeks ago)
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge (3 weeks ago)
-- [zoefiri/rampale](https://github.com/zoefiri/rampale) - color palette generation tool (4 weeks ago)
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 month ago)
-- [anewtypeofinterference/Optician-Sans](https://github.com/anewtypeofinterference/Optician-Sans) - Typeface based on the historical eye charts and optotypes used by opticians world wide. (2 months ago)
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (2 months ago)
 
 #### 📫 Web Presence
 
