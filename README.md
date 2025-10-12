@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 days ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 days ago)
+- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (3 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (4 days ago)
 - [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (1 week ago)
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (1 week ago)
@@ -56,16 +56,16 @@
 
 #### ⭐ Recent Stars
 
-- [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files within Obsidian. (4 days ago)
-- [Pattern-Projector/pattern-projector](https://github.com/Pattern-Projector/pattern-projector) -  (5 days ago)
-- [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux (6 days ago)
-- [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) - Ninja-compatible incremental build system for Nix (6 days ago)
+- [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files within Obsidian. (5 days ago)
+- [Pattern-Projector/pattern-projector](https://github.com/Pattern-Projector/pattern-projector) -  (6 days ago)
+- [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux (1 week ago)
+- [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) - Ninja-compatible incremental build system for Nix (1 week ago)
 - [jkcoxson/idevice](https://github.com/jkcoxson/idevice) - A crate to replace libimobiledevice in pure Rust (1 week ago)
 - [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4&#43;, powered by idevice. (1 week ago)
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language (1 week ago)
-- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (1 week ago)
-- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (1 week ago)
-- [sinceohsix/lcdl-repo](https://github.com/sinceohsix/lcdl-repo) - An app downloader for LiveContainer built in iOS Shortcuts. (1 week ago)
+- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (2 weeks ago)
+- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (2 weeks ago)
+- [sinceohsix/lcdl-repo](https://github.com/sinceohsix/lcdl-repo) - An app downloader for LiveContainer built in iOS Shortcuts. (2 weeks ago)
 
 #### 📫 Web Presence
 
