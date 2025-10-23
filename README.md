@@ -7,14 +7,14 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (1 week ago)
-- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (1 week ago)
+- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 weeks ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 weeks ago)
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (2 weeks ago)
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 weeks ago)
-- [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (2 weeks ago)
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (3 weeks ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 weeks ago)
+- [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (3 weeks ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Userscript to add the source article to MSN News (3 weeks ago)
 - [elanora96/Recipes](https://github.com/elanora96/Recipes) -  (4 weeks ago)
-- [elanora96/learning-canvas](https://github.com/elanora96/learning-canvas) - Messing with HTML5 Canvas, might make a sticker or something (4 weeks ago)
+- [elanora96/learning-canvas](https://github.com/elanora96/learning-canvas) - Messing with HTML5 Canvas, might make a sticker or something (1 month ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (1 month ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.0](https://github.com/elanora96/flake-templates/releases/tag/v0.1.0), 2 weeks ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.0](https://github.com/elanora96/flake-templates/releases/tag/v0.1.0), 3 weeks ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.3](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.3), 3 weeks ago) - Userscript to add the source article to MSN News
 
 #### 🔨 My recent Pull Requests
