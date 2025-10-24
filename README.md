@@ -13,7 +13,7 @@
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 weeks ago)
 - [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (3 weeks ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Userscript to add the source article to MSN News (3 weeks ago)
-- [elanora96/Recipes](https://github.com/elanora96/Recipes) -  (4 weeks ago)
+- [elanora96/Recipes](https://github.com/elanora96/Recipes) -  (1 month ago)
 - [elanora96/learning-canvas](https://github.com/elanora96/learning-canvas) - Messing with HTML5 Canvas, might make a sticker or something (1 month ago)
 - [elanora96/zsh-plugins](https://github.com/elanora96/zsh-plugins) - Misc zsh plugins for personal use (1 month ago)
 
