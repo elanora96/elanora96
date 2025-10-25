@@ -56,16 +56,16 @@
 
 #### ⭐ Recent Stars
 
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 day ago)
 - [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files within Obsidian. (2 weeks ago)
 - [Pattern-Projector/pattern-projector](https://github.com/Pattern-Projector/pattern-projector) -  (2 weeks ago)
 - [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux (2 weeks ago)
 - [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) - Ninja-compatible incremental build system for Nix (2 weeks ago)
-- [jkcoxson/idevice](https://github.com/jkcoxson/idevice) - A crate to replace libimobiledevice in pure Rust (2 weeks ago)
-- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4&#43;, powered by idevice. (2 weeks ago)
+- [jkcoxson/idevice](https://github.com/jkcoxson/idevice) - A crate to replace libimobiledevice in pure Rust (3 weeks ago)
+- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4&#43;, powered by idevice. (3 weeks ago)
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language (3 weeks ago)
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (3 weeks ago)
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (3 weeks ago)
-- [sinceohsix/lcdl-repo](https://github.com/sinceohsix/lcdl-repo) - An app downloader for LiveContainer built in iOS Shortcuts. (3 weeks ago)
 
 #### 📫 Web Presence
 
