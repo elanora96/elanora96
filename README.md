@@ -6,9 +6,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 days ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (5 days ago)
-- [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (5 days ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (2 days ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 days ago)
+- [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (6 days ago)
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (3 weeks ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (4 weeks ago)
 - [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (1 month ago)
@@ -32,14 +32,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.0](https://github.com/elanora96/qremote/releases/tag/v0.1.0), 5 days ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
+- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.0](https://github.com/elanora96/qremote/releases/tag/v0.1.0), 6 days ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.0](https://github.com/elanora96/flake-templates/releases/tag/v0.1.0), 1 month ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.3](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.3), 1 month ago) - Userscript to add the source article to MSN News
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
 
 #### 🔨 My recent Pull Requests
 
-- [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (5 days ago)
+- [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (6 days ago)
 - [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (3 months ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (1 year ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (1 year ago)
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [Gezine/Y2JB](https://github.com/Gezine/Y2JB) - Y2JB is userland code execution using PS5 Youtube app (1 day ago)
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 week ago)
+- [Gezine/Y2JB](https://github.com/Gezine/Y2JB) - Y2JB is userland code execution using PS5 Youtube app (2 days ago)
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (2 weeks ago)
 - [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files within Obsidian. (1 month ago)
 - [Pattern-Projector/pattern-projector](https://github.com/Pattern-Projector/pattern-projector) -  (1 month ago)
 - [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux (1 month ago)
