@@ -6,9 +6,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 days ago)
-- [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (2 days ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (5 days ago)
+- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (3 days ago)
+- [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (3 days ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (6 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (1 week ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (1 week ago)
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (4 weeks ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 5 days ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
+- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 6 days ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.0](https://github.com/elanora96/flake-templates/releases/tag/v0.1.0), 1 month ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.3](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.3), 1 month ago) - Userscript to add the source article to MSN News
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (1 day ago)
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (2 days ago)
 - [Gezine/Y2JB](https://github.com/Gezine/Y2JB) - Y2JB is userland code execution using PS5 Youtube app (1 week ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (2 weeks ago)
 - [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files within Obsidian. (1 month ago)
