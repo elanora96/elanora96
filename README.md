@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (3 days ago)
+- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (4 days ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 week ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (1 week ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (1 week ago)
@@ -33,7 +33,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 1 week ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
-- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 1 week ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
+- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 2 weeks ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.3](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.3), 1 month ago) - Userscript to add the source article to MSN News
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
 
@@ -58,16 +58,16 @@
 
 #### ⭐ Recent Stars
 
-- [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust (2 days ago)
-- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd (3 days ago)
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 days ago)
-- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.  (4 days ago)
+- [iBicha/playlet](https://github.com/iBicha/playlet) - The unofficial, privacy driven, YouTube client for Roku (1 day ago)
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust (3 days ago)
+- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd (4 days ago)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (4 days ago)
+- [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.  (5 days ago)
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (1 week ago)
 - [Gezine/Y2JB](https://github.com/Gezine/Y2JB) - Y2JB is userland code execution using PS5 Youtube app (2 weeks ago)
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (3 weeks ago)
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (4 weeks ago)
 - [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files within Obsidian. (1 month ago)
 - [Pattern-Projector/pattern-projector](https://github.com/Pattern-Projector/pattern-projector) -  (1 month ago)
-- [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux (1 month ago)
 
 #### 📫 Web Presence
 
