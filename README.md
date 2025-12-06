@@ -58,8 +58,9 @@
 
 #### ⭐ Recent Stars
 
-- [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch (5 days ago)
-- [Owen-Dechow/videre.nvim](https://github.com/Owen-Dechow/videre.nvim) - JSON explorer using Neovim&#39;s terminal interface. (5 days ago)
+- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (1 day ago)
+- [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch (6 days ago)
+- [Owen-Dechow/videre.nvim](https://github.com/Owen-Dechow/videre.nvim) - JSON explorer using Neovim&#39;s terminal interface. (6 days ago)
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need (1 week ago)
 - [jkcoxson/afc_finder](https://github.com/jkcoxson/afc_finder) - Finder but for AFC (1 week ago)
 - [iBicha/playlet](https://github.com/iBicha/playlet) - The unofficial, privacy driven, YouTube client for Roku (2 weeks ago)
@@ -67,7 +68,6 @@
 - [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd (2 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (2 weeks ago)
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.  (2 weeks ago)
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support &#43; 100s of improvements. Framework-agnostic, open source &amp; free. (3 weeks ago)
 
 #### 📫 Web Presence
 
