@@ -7,7 +7,7 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
-- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (4 weeks ago)
+- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (1 month ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 month ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (1 month ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (1 month ago)
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (3 days ago)
-- [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (5 days ago)
+- [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (4 days ago)
+- [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (6 days ago)
 - [chadmed/bankstown](https://github.com/chadmed/bankstown) - A lightweight psychoacoustic bass enhancement plugin - in stereo where available! (1 week ago)
 - [jonaolden/tailscale_kual](https://github.com/jonaolden/tailscale_kual) - KUAL Extension for jailbreaked kindles to run Tailscale VPN (1 week ago)
 - [khcrysalis/PlumeImpactor](https://github.com/khcrysalis/PlumeImpactor) - WIP open-source, cross-platform, and feature rich iOS/tvOS sideloading application. Supporting macOS, Linux, and Windows. (1 week ago)
