@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (6 days ago)
+- [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (1 week ago)
 - [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (1 week ago)
 - [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (1 week ago)
 - [chadmed/bankstown](https://github.com/chadmed/bankstown) - A lightweight psychoacoustic bass enhancement plugin - in stereo where available! (2 weeks ago)
