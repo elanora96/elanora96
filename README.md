@@ -12,9 +12,9 @@
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (1 month ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (1 month ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (1 month ago)
-- [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (1 month ago)
+- [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (2 months ago)
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (2 months ago)
-- [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (2 months ago)
+- [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (3 months ago)
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) - Userscript to add the source article to MSN News (3 months ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (1 month ago)
+- [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (2 months ago)
 - [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (5 months ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 years ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 years ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (1 week ago)
+- [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (2 weeks ago)
 - [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (2 weeks ago)
 - [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (2 weeks ago)
 - [chadmed/bankstown](https://github.com/chadmed/bankstown) - A lightweight psychoacoustic bass enhancement plugin - in stereo where available! (3 weeks ago)
