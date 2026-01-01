@@ -54,13 +54,13 @@
 
 - [Todoist Linux Font Spacing Fix (uBlock Origin Filter)](https://gist.github.com/5efbfed7f06b87afe32be0b1b2450dd0) (3 months ago)
 - [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (1 year ago)
-- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (1 year ago)
+- [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (2 years ago)
 
 #### ⭐ Recent Stars
 
 - [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (2 weeks ago)
 - [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (2 weeks ago)
-- [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (2 weeks ago)
+- [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (3 weeks ago)
 - [chadmed/bankstown](https://github.com/chadmed/bankstown) - A lightweight psychoacoustic bass enhancement plugin - in stereo where available! (3 weeks ago)
 - [jonaolden/tailscale_kual](https://github.com/jonaolden/tailscale_kual) - KUAL Extension for jailbreaked kindles to run Tailscale VPN (3 weeks ago)
 - [khcrysalis/PlumeImpactor](https://github.com/khcrysalis/PlumeImpactor) - Open-source, cross-platform, and feature rich iOS/tvOS sideloading application. Supporting macOS, Linux, and Windows. (3 weeks ago)
