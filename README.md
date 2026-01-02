@@ -64,7 +64,7 @@
 - [chadmed/bankstown](https://github.com/chadmed/bankstown) - A lightweight psychoacoustic bass enhancement plugin - in stereo where available! (3 weeks ago)
 - [jonaolden/tailscale_kual](https://github.com/jonaolden/tailscale_kual) - KUAL Extension for jailbreaked kindles to run Tailscale VPN (3 weeks ago)
 - [khcrysalis/PlumeImpactor](https://github.com/khcrysalis/PlumeImpactor) - Open-source, cross-platform, and feature rich iOS/tvOS sideloading application. Supporting macOS, Linux, and Windows. (3 weeks ago)
-- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (3 weeks ago)
+- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (4 weeks ago)
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch (1 month ago)
 - [Owen-Dechow/videre.nvim](https://github.com/Owen-Dechow/videre.nvim) - JSON explorer using Neovim&#39;s terminal interface. (1 month ago)
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need (1 month ago)
