@@ -58,7 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (4 weeks ago)
+- [reinesana/MeowCV](https://github.com/reinesana/MeowCV) - A openCV program that detects faces and displays Tiktok cats. (1 day ago)
+- [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (1 month ago)
 - [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (1 month ago)
 - [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (1 month ago)
 - [chadmed/bankstown](https://github.com/chadmed/bankstown) - A lightweight psychoacoustic bass enhancement plugin - in stereo where available! (1 month ago)
@@ -67,7 +68,6 @@
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (1 month ago)
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch (1 month ago)
 - [Owen-Dechow/videre.nvim](https://github.com/Owen-Dechow/videre.nvim) - JSON explorer using Neovim&#39;s terminal interface. (1 month ago)
-- [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need (1 month ago)
 
 #### 📫 Web Presence
 
