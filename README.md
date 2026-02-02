@@ -7,11 +7,11 @@
 #### 👩‍💻 Check out what I'm currently working on
 
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (3 weeks ago)
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (4 weeks ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 month ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (2 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (2 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (2 months ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 months ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 months ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (3 months ago)
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (3 months ago)
 - [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (4 months ago)
@@ -52,21 +52,21 @@
 
 #### 📓 Gists I wrote
 
-- [Todoist Linux Font Spacing Fix (uBlock Origin Filter)](https://gist.github.com/5efbfed7f06b87afe32be0b1b2450dd0) (4 months ago)
+- [Todoist Linux Font Spacing Fix (uBlock Origin Filter)](https://gist.github.com/5efbfed7f06b87afe32be0b1b2450dd0) (5 months ago)
 - [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (1 year ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files clean. The true local music experience is here. (today)
-- [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) - EnsWilde is a tool utilizing itunesstored &amp; bookassetd exploits, designed for iPhone and iPad running the latest iOS Version 26.2b1. (4 days ago)
+- [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files clean. The true local music experience is here. (1 day ago)
+- [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) - EnsWilde is a tool utilizing itunesstored &amp; bookassetd exploits, designed for iPhone and iPad running the latest iOS Version 26.2b1. (5 days ago)
 - [reinesana/MeowCV](https://github.com/reinesana/MeowCV) - A openCV program that detects faces and displays Tiktok cats. (2 weeks ago)
 - [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (1 month ago)
 - [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (1 month ago)
 - [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (1 month ago)
 - [chadmed/bankstown](https://github.com/chadmed/bankstown) - A lightweight psychoacoustic bass enhancement plugin - in stereo where available! (1 month ago)
 - [jonaolden/tailscale_kual](https://github.com/jonaolden/tailscale_kual) - KUAL Extension for jailbreaked kindles to run Tailscale VPN (1 month ago)
-- [khcrysalis/Impactor](https://github.com/khcrysalis/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust. Formerly known as PlumeImpactor. (1 month ago)
+- [khcrysalis/Impactor](https://github.com/khcrysalis/Impactor) - WIP Feature rich iOS/tvOS sideloading application written in Rust. Formerly PlumeImpactor. (1 month ago)
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (1 month ago)
 
 #### 📫 Web Presence
