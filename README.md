@@ -58,9 +58,9 @@
 
 #### ⭐ Recent Stars
 
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (2 days ago)
-- [emilelcb/nt](https://github.com/emilelcb/nt) - A complete type system for writing better Nix! (4 days ago)
-- [bearcove/roam](https://github.com/bearcove/roam) - Rust-native RPC, friendly to other languages via facet-powered codegen (5 days ago)
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (3 days ago)
+- [emilelcb/nt](https://github.com/emilelcb/nt) - A complete type system for writing better Nix! (5 days ago)
+- [bearcove/roam](https://github.com/bearcove/roam) - Rust-native RPC, friendly to other languages via facet-powered codegen (6 days ago)
 - [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files clean. The true local music experience is here. (1 week ago)
 - [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) - EnsWilde is a tool utilizing itunesstored &amp; bookassetd exploits, designed for iPhone and iPad running the latest iOS Version 26.2b1. (1 week ago)
 - [reinesana/MeowCV](https://github.com/reinesana/MeowCV) - A openCV program that detects faces and displays Tiktok cats. (3 weeks ago)
