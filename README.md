@@ -8,8 +8,8 @@
 
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (1 month ago)
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 month ago)
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (2 months ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (2 months ago)
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (3 months ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (3 months ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 months ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (3 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 2 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 3 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
 - [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 3 months ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.3](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.3), 4 months ago) - Userscript to add the source article to MSN News
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
@@ -58,14 +58,14 @@
 
 #### ⭐ Recent Stars
 
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (3 days ago)
-- [emilelcb/nt](https://github.com/emilelcb/nt) - A complete type system for writing better Nix! (5 days ago)
-- [bearcove/roam](https://github.com/bearcove/roam) - Rust-native RPC, friendly to other languages via facet-powered codegen (6 days ago)
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (4 days ago)
+- [emilelcb/nt](https://github.com/emilelcb/nt) - A complete type system for writing better Nix! (6 days ago)
+- [bearcove/roam](https://github.com/bearcove/roam) - Rust-native RPC, friendly to other languages via facet-powered codegen (1 week ago)
 - [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files clean. The true local music experience is here. (1 week ago)
-- [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) - EnsWilde is a tool utilizing itunesstored &amp; bookassetd exploits, designed for iPhone and iPad running the latest iOS Version 26.2b1. (1 week ago)
+- [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) - EnsWilde is a tool utilizing itunesstored &amp; bookassetd exploits, designed for iPhone and iPad running the latest iOS Version 26.2b1. (2 weeks ago)
 - [reinesana/MeowCV](https://github.com/reinesana/MeowCV) - A openCV program that detects faces and displays Tiktok cats. (3 weeks ago)
 - [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (1 month ago)
-- [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (1 month ago)
+- [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (2 months ago)
 - [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (2 months ago)
 - [chadmed/bankstown](https://github.com/chadmed/bankstown) - A lightweight psychoacoustic bass enhancement plugin - in stereo where available! (2 months ago)
 
