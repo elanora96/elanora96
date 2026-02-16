@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (3 days ago)
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (4 days ago)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (1 week ago)
 - [cry128/nt](https://github.com/cry128/nt) - A complete type system for writing better Nix! (1 week ago)
 - [bearcove/roam](https://github.com/bearcove/roam) - Rust-native RPC, friendly to other languages via facet-powered codegen (1 week ago)
