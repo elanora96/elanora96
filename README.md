@@ -8,8 +8,8 @@
 
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (1 month ago)
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 month ago)
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (3 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 months ago)
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (3 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (3 months ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 months ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (3 months ago)
@@ -58,7 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (4 days ago)
+- [blampe/hearring-aid](https://github.com/blampe/hearring-aid) - Hear what your LiDAR is missing (1 day ago)
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (5 days ago)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (1 week ago)
 - [cry128/nt](https://github.com/cry128/nt) - A complete type system for writing better Nix! (1 week ago)
 - [bearcove/roam](https://github.com/bearcove/roam) - Rust-native RPC, friendly to other languages via facet-powered codegen (1 week ago)
@@ -67,7 +68,6 @@
 - [reinesana/MeowCV](https://github.com/reinesana/MeowCV) - A openCV program that detects faces and displays Tiktok cats. (1 month ago)
 - [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) - Seamless navigation between Neovim windows and Zellij panes. (2 months ago)
 - [acornelissen/IDENTIDEM.design-MRF2](https://github.com/acornelissen/IDENTIDEM.design-MRF2) -  (2 months ago)
-- [KyleKing/mdformat-front-matters](https://github.com/KyleKing/mdformat-front-matters) - A mdformat plugin to format YAML, TOML, or JSON front matter  (2 months ago)
 
 #### 📫 Web Presence
 
