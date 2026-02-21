@@ -58,10 +58,10 @@
 
 #### ⭐ Recent Stars
 
-- [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat (1 day ago)
-- [blampe/hearring-aid](https://github.com/blampe/hearring-aid) - Hear what your LiDAR is missing (4 days ago)
+- [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat (2 days ago)
+- [blampe/hearring-aid](https://github.com/blampe/hearring-aid) - Hear what your LiDAR is missing (5 days ago)
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (1 week ago)
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (1 week ago)
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (2 weeks ago)
 - [cry128/nt](https://github.com/cry128/nt) - A complete type system for writing better Nix! (2 weeks ago)
 - [bearcove/roam](https://github.com/bearcove/roam) - Rust-native RPC, friendly to other languages via facet-powered codegen (2 weeks ago)
 - [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files clean. The true local music experience is here. (2 weeks ago)
