@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat (4 days ago)
+- [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat (5 days ago)
 - [blampe/hearring-aid](https://github.com/blampe/hearring-aid) - Hear what your LiDAR is missing (1 week ago)
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (1 week ago)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (2 weeks ago)
