@@ -58,13 +58,13 @@
 
 #### ⭐ Recent Stars
 
-- [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty-five years of tech notes, viewable as man pages (3 days ago)
-- [DMJC/audacious-projectm](https://github.com/DMJC/audacious-projectm) - ProjectM Visualizer for Audacious (6 days ago)
-- [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat (1 week ago)
+- [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty-five years of tech notes, viewable as man pages (4 days ago)
+- [DMJC/audacious-projectm](https://github.com/DMJC/audacious-projectm) - ProjectM Visualizer for Audacious (1 week ago)
+- [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat (2 weeks ago)
 - [blampe/hearring-aid](https://github.com/blampe/hearring-aid) - Hear what your LiDAR is missing (2 weeks ago)
-- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (2 weeks ago)
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (3 weeks ago)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (3 weeks ago)
-- [cry128/nt](https://github.com/cry128/nt) - A complete type system for writing better Nix! (3 weeks ago)
+- [cry128/nt](https://github.com/cry128/nt) - A complete type system for writing better Nix! (4 weeks ago)
 - [bearcove/roam](https://github.com/bearcove/roam) - Rust-native RPC, friendly to other languages via facet-powered codegen (4 weeks ago)
 - [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files clean. The true local music experience is here. (1 month ago)
 - [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) - EnsWilde is a tool utilizing itunesstored &amp; bookassetd exploits, designed for iPhone and iPad running the latest iOS Version 26.2b1. (1 month ago)
