@@ -6,9 +6,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 days ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (3 days ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 week ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (4 days ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (2 weeks ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (4 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (4 months ago)
@@ -58,12 +58,12 @@
 
 #### ⭐ Recent Stars
 
-- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (3 days ago)
-- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (3 days ago)
-- [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler (6 days ago)
+- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (4 days ago)
+- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (4 days ago)
+- [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler (1 week ago)
 - [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty-five years of tech notes, viewable as man pages (2 weeks ago)
-- [DMJC/audacious-projectm](https://github.com/DMJC/audacious-projectm) - ProjectM Visualizer for Audacious (2 weeks ago)
-- [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat or server channels. (3 weeks ago)
+- [DMJC/audacious-projectm](https://github.com/DMJC/audacious-projectm) - ProjectM Visualizer for Audacious (3 weeks ago)
+- [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat or server channels. (4 weeks ago)
 - [blampe/hearring-aid](https://github.com/blampe/hearring-aid) - Hear what your LiDAR is missing (1 month ago)
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (1 month ago)
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening (1 month ago)
