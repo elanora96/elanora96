@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 day ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 days ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (1 week ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (2 weeks ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 months ago)
@@ -58,9 +58,9 @@
 
 #### ⭐ Recent Stars
 
-- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (1 day ago)
-- [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (1 day ago)
-- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (5 days ago)
+- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (2 days ago)
+- [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (2 days ago)
+- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (6 days ago)
 - [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 week ago)
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (1 week ago)
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler (1 week ago)
