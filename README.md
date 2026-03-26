@@ -6,9 +6,9 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 days ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (1 week ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (2 weeks ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 weeks ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (4 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (4 months ago)
@@ -58,16 +58,16 @@
 
 #### ⭐ Recent Stars
 
-- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (2 days ago)
-- [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (2 days ago)
-- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (6 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 day ago)
+- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (3 days ago)
+- [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (3 days ago)
+- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (1 week ago)
 - [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 week ago)
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (1 week ago)
-- [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler (1 week ago)
+- [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler (2 weeks ago)
 - [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty-five years of tech notes, viewable as man pages (3 weeks ago)
-- [DMJC/audacious-projectm](https://github.com/DMJC/audacious-projectm) - ProjectM Visualizer for Audacious (3 weeks ago)
+- [DMJC/audacious-projectm](https://github.com/DMJC/audacious-projectm) - ProjectM Visualizer for Audacious (4 weeks ago)
 - [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat or server channels. (1 month ago)
-- [blampe/hearring-aid](https://github.com/blampe/hearring-aid) - Hear what your LiDAR is missing (1 month ago)
 
 #### 📫 Web Presence
 
