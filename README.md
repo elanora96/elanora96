@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (5 days ago)
-- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (1 week ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (6 days ago)
+- [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (2 weeks ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (3 weeks ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (4 months ago)
@@ -58,14 +58,14 @@
 
 #### ⭐ Recent Stars
 
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (3 days ago)
-- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (5 days ago)
-- [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (5 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (4 days ago)
+- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (6 days ago)
+- [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (6 days ago)
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (1 week ago)
-- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 week ago)
-- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (1 week ago)
+- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (2 weeks ago)
+- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (2 weeks ago)
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler (2 weeks ago)
-- [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty-five years of tech notes, viewable as man pages (3 weeks ago)
+- [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty-five years of tech notes, viewable as man pages (4 weeks ago)
 - [DMJC/audacious-projectm](https://github.com/DMJC/audacious-projectm) - ProjectM Visualizer for Audacious (1 month ago)
 - [Uncapp3d/CMM](https://github.com/Uncapp3d/CMM) - Vencord Plugin to delete all messages sent in an private chat or server channels. (1 month ago)
 
