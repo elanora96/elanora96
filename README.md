@@ -58,16 +58,16 @@
 
 #### ⭐ Recent Stars
 
-- [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (2 days ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (6 days ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (1 day ago)
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (1 day ago)
+- [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (3 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
 - [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (1 week ago)
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (1 week ago)
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (1 week ago)
 - [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (2 weeks ago)
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (2 weeks ago)
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler (2 weeks ago)
-- [pjungwir/manpj](https://github.com/pjungwir/manpj) - Twenty-five years of tech notes, viewable as man pages (1 month ago)
-- [DMJC/audacious-projectm](https://github.com/DMJC/audacious-projectm) - ProjectM Visualizer for Audacious (1 month ago)
 
 #### 📫 Web Presence
 
