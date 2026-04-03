@@ -12,7 +12,7 @@
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (4 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (4 months ago)
-- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (4 months ago)
+- [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (5 months ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (5 months ago)
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (5 months ago)
 - [elanora96/Learn_Go_with_Pocket-Sized_Projects](https://github.com/elanora96/Learn_Go_with_Pocket-Sized_Projects) -  (6 months ago)
@@ -52,15 +52,15 @@
 
 #### 📓 Gists I wrote
 
-- [Todoist Linux Font Spacing Fix (uBlock Origin Filter)](https://gist.github.com/5efbfed7f06b87afe32be0b1b2450dd0) (6 months ago)
+- [Todoist Linux Font Spacing Fix (uBlock Origin Filter)](https://gist.github.com/5efbfed7f06b87afe32be0b1b2450dd0) (7 months ago)
 - [OpenWRT opkg upgrade all](https://gist.github.com/6036dee1d40cf168f9528319a80ab4b9) (1 year ago)
 - [Oh My Zsh multiple &#34;$ZSH_CUSTOM/plugins&#34; workaround](https://gist.github.com/b2424fa9f70d7549fd0590c58949f686) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (2 days ago)
-- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (2 days ago)
-- [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (4 days ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (3 days ago)
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (3 days ago)
+- [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (5 days ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
 - [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (1 week ago)
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (1 week ago)
