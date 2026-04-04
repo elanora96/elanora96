@@ -8,7 +8,7 @@
 
 - [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (2 weeks ago)
-- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (4 weeks ago)
+- [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 month ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (2 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (4 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (4 months ago)
@@ -58,9 +58,9 @@
 
 #### ⭐ Recent Stars
 
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (3 days ago)
-- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (3 days ago)
-- [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (5 days ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (4 days ago)
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (4 days ago)
+- [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (6 days ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
 - [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (1 week ago)
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (1 week ago)
