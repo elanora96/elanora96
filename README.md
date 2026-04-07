@@ -58,9 +58,9 @@
 
 #### ⭐ Recent Stars
 
-- [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (2 days ago)
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (6 days ago)
-- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (6 days ago)
+- [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (3 days ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (1 week ago)
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (1 week ago)
 - [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (1 week ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
 - [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (2 weeks ago)
