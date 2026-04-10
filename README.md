@@ -58,7 +58,9 @@
 
 #### ⭐ Recent Stars
 
-- [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (5 days ago)
+- [santinic/pampy.js](https://github.com/santinic/pampy.js) - Pampy.js: Pattern Matching for JavaScript (1 day ago)
+- [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of. (1 day ago)
+- [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (6 days ago)
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (1 week ago)
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (1 week ago)
 - [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (1 week ago)
@@ -66,8 +68,6 @@
 - [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications! (2 weeks ago)
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) -  (2 weeks ago)
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE (3 weeks ago)
-- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (3 weeks ago)
-- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration (3 weeks ago)
 
 #### 📫 Web Presence
 
