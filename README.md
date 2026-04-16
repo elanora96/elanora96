@@ -6,8 +6,8 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (5 days ago)
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 weeks ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 day ago)
+- [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (6 days ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (1 month ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 month ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (3 months ago)
@@ -58,11 +58,11 @@
 
 #### ⭐ Recent Stars
 
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion &amp; manipulation of PDF (and other) documents. (5 days ago)
-- [Foxboron/age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) - :key: TPM 2.0 plugin for age (5 days ago)
-- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs (5 days ago)
-- [santinic/pampy.js](https://github.com/santinic/pampy.js) - Pampy.js: Pattern Matching for JavaScript (6 days ago)
-- [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of. (6 days ago)
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion &amp; manipulation of PDF (and other) documents. (6 days ago)
+- [Foxboron/age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) - :key: TPM 2.0 plugin for age (6 days ago)
+- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs (6 days ago)
+- [santinic/pampy.js](https://github.com/santinic/pampy.js) - Pampy.js: Pattern Matching for JavaScript (1 week ago)
+- [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of. (1 week ago)
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (1 week ago)
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (2 weeks ago)
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (2 weeks ago)
