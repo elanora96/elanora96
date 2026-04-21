@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (4 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 day ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (1 week ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (1 month ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (1 month ago)
@@ -64,8 +64,8 @@
 - [santinic/pampy.js](https://github.com/santinic/pampy.js) - Pampy.js: Pattern Matching for JavaScript (1 week ago)
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of. (1 week ago)
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (2 weeks ago)
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (2 weeks ago)
-- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (2 weeks ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (3 weeks ago)
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (3 weeks ago)
 - [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground) - Create beautiful animated wallpapers for iOS and iPadOS on any desktop computer. (3 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (3 weeks ago)
 
