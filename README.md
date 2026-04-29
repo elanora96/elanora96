@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 14&#43;. (1 day ago)
 - [lcian/flowistry.nvim](https://github.com/lcian/flowistry.nvim) - 🌊 flowistry plugin for neovim (1 week ago)
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code. (1 week ago)
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion &amp; manipulation of PDF (and other) documents. (2 weeks ago)
@@ -67,7 +68,6 @@
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of. (2 weeks ago)
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (3 weeks ago)
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (4 weeks ago)
-- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust. (4 weeks ago)
 
 #### 📫 Web Presence
 
