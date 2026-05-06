@@ -33,7 +33,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 5 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
-- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 5 months ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
+- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 6 months ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.3](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.3), 7 months ago) - Userscript to add the source article to MSN News
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
 
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (5 days ago)
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (6 days ago)
 - [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 14&#43;. (1 week ago)
 - [lcian/flowistry.nvim](https://github.com/lcian/flowistry.nvim) - 🌊 flowistry plugin for neovim (2 weeks ago)
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code. (2 weeks ago)
