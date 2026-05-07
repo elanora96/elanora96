@@ -58,15 +58,15 @@
 
 #### ⭐ Recent Stars
 
-- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (6 days ago)
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (1 week ago)
 - [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 14&#43;. (1 week ago)
 - [lcian/flowistry.nvim](https://github.com/lcian/flowistry.nvim) - 🌊 flowistry plugin for neovim (2 weeks ago)
 - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code. (2 weeks ago)
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion &amp; manipulation of PDF (and other) documents. (3 weeks ago)
 - [Foxboron/age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) - :key: TPM 2.0 plugin for age (3 weeks ago)
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs (3 weeks ago)
-- [santinic/pampy.js](https://github.com/santinic/pampy.js) - Pampy.js: Pattern Matching for JavaScript (3 weeks ago)
-- [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of. (3 weeks ago)
+- [santinic/pampy.js](https://github.com/santinic/pampy.js) - Pampy.js: Pattern Matching for JavaScript (4 weeks ago)
+- [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of. (4 weeks ago)
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust (1 month ago)
 
 #### 📫 Web Presence
