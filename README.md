@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (5 days ago)
+- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (6 days ago)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (1 week ago)
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (3 weeks ago)
 - [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks. (3 weeks ago)
