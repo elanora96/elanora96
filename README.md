@@ -33,7 +33,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 6 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
-- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 6 months ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
+- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 7 months ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.3](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.3), 8 months ago) - Userscript to add the source article to MSN News
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
 
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (2 days ago)
+- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (3 days ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (1 week ago)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (2 weeks ago)
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (4 weeks ago)
