@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/212) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (1 day ago)
 - [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (7 months ago)
 - [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (10 months ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 years ago)
@@ -48,7 +49,6 @@
 - [Group by month in events](https://github.com/akleventis/united_house_productions/pull/4) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (4 years ago)
 - [Basic shopping cart modal](https://github.com/akleventis/united_house_productions/pull/3) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (4 years ago)
 - [Made Flyer more modular](https://github.com/akleventis/united_house_productions/pull/2) on [akleventis/united_house_productions](https://github.com/akleventis/united_house_productions) (4 years ago)
-- [add merch](https://github.com/elanora96/united_house_productions/pull/1) on [elanora96/united_house_productions](https://github.com/elanora96/united_house_productions) (4 years ago)
 
 #### 📓 Gists I wrote
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Recent Stars
 
-- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (3 days ago)
-- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (1 week ago)
-- [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (2 weeks ago)
-- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (4 weeks ago)
-- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks. (4 weeks ago)
+- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (4 days ago)
+- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (2 weeks ago)
+- [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (3 weeks ago)
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (1 month ago)
+- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks. (1 month ago)
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (1 month ago)
 - [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 13&#43;. (1 month ago)
 - [lcian/flowistry.nvim](https://github.com/lcian/flowistry.nvim) - 🌊 flowistry plugin for neovim (1 month ago)
