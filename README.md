@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (1 day ago)
-- [dianhe/hackintosh-gigabyte-x570-aorus-elite](https://github.com/dianhe/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh. (1 week ago)
+- [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (2 days ago)
+- [dianhe/hackintosh-gigabyte-x570-aorus-elite](https://github.com/dianhe/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh. (2 weeks ago)
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (2 weeks ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (4 weeks ago)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (1 month ago)
