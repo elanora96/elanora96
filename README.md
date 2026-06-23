@@ -58,10 +58,10 @@
 
 #### ⭐ Recent Stars
 
-- [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (1 day ago)
-- [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (3 days ago)
+- [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (2 days ago)
+- [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (4 days ago)
 - [dianhe/hackintosh-gigabyte-x570-aorus-elite](https://github.com/dianhe/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh. (2 weeks ago)
-- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (2 weeks ago)
+- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (3 weeks ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (1 month ago)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (1 month ago)
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (1 month ago)
