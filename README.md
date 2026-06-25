@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (3 days ago)
-- [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (5 days ago)
+- [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (4 days ago)
+- [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (6 days ago)
 - [dianhe/hackintosh-gigabyte-x570-aorus-elite](https://github.com/dianhe/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh. (2 weeks ago)
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (3 weeks ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (1 month ago)
