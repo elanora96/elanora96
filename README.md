@@ -58,10 +58,10 @@
 
 #### ⭐ Recent Stars
 
-- [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (2 days ago)
-- [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (6 days ago)
+- [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (3 days ago)
+- [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (1 week ago)
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (1 week ago)
-- [dianhe/hackintosh-gigabyte-x570-aorus-elite](https://github.com/dianhe/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh. (2 weeks ago)
+- [dianhe/hackintosh-gigabyte-x570-aorus-elite](https://github.com/dianhe/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh. (3 weeks ago)
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (3 weeks ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (1 month ago)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (1 month ago)
