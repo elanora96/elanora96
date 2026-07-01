@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite) -  (1 day ago)
-- [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (5 days ago)
+- [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite) -  (2 days ago)
+- [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (6 days ago)
 - [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (1 week ago)
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (1 week ago)
 - [dianhe/hackintosh-gigabyte-x570-aorus-elite](https://github.com/dianhe/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh. (3 weeks ago)
