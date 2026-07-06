@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (4 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (5 days ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (2 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (3 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (4 months ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite) -  (6 days ago)
+- [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite) -  (1 week ago)
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (1 week ago)
 - [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (2 weeks ago)
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (2 weeks ago)
@@ -66,8 +66,8 @@
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse (1 month ago)
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (1 month ago)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (1 month ago)
-- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (1 month ago)
-- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks. (1 month ago)
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (2 months ago)
+- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks. (2 months ago)
 
 #### 📫 Web Presence
 
