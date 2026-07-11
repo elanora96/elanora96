@@ -6,12 +6,12 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 days ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (3 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (3 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (4 months ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (6 months ago)
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (7 months ago)
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (8 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (8 months ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (8 months ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (8 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 7 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 8 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
 - [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 8 months ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [elanora96/msn-show-source](https://github.com/elanora96/msn-show-source) ([v1.0.3](https://github.com/elanora96/msn-show-source/releases/tag/v1.0.3), 9 months ago) - Userscript to add the source article to MSN News
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs (1 day ago)
 - [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite) -  (1 week ago)
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (2 weeks ago)
 - [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (2 weeks ago)
@@ -67,7 +68,6 @@
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform (1 month ago)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) - Run dynamically linked ELF binaries everywhere (1 month ago)
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool. (2 months ago)
-- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks. (2 months ago)
 
 #### 📫 Web Presence
 
