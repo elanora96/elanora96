@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 day ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (1 week ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (3 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (4 months ago)
@@ -60,7 +60,7 @@
 
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs (2 weeks ago)
 - [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite) -  (3 weeks ago)
-- [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (4 weeks ago)
+- [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (1 month ago)
 - [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (1 month ago)
 - [jesusmgg/comic-shanns-mono](https://github.com/jesusmgg/comic-shanns-mono) - a classy font for programming (1 month ago)
 - [dianhe/hackintosh-gigabyte-x570-aorus-elite](https://github.com/dianhe/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh. (1 month ago)
