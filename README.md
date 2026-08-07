@@ -6,14 +6,14 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (6 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 week ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 weeks ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (3 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (4 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (5 months ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (7 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (8 months ago)
-- [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (8 months ago)
+- [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (9 months ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (9 months ago)
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (9 months ago)
 
@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/224) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (6 days ago)
+- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/224) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (1 week ago)
 - [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/212) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (2 months ago)
 - [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (9 months ago)
 - [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 year ago)
@@ -58,9 +58,9 @@
 
 #### ⭐ Recent Stars
 
-- [rickparrish/luci-app-adblock-lean](https://github.com/rickparrish/luci-app-adblock-lean) -  (1 day ago)
+- [rickparrish/luci-app-adblock-lean](https://github.com/rickparrish/luci-app-adblock-lean) -  (2 days ago)
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources (1 week ago)
-- [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs (3 weeks ago)
+- [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs (4 weeks ago)
 - [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite) -  (1 month ago)
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart. (1 month ago)
 - [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) - An extension to drive Silhouette vinyl cutters (e.g. Cameo, Portrait, Curio series) from within inkscape. (1 month ago)
