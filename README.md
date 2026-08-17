@@ -58,9 +58,9 @@
 
 #### ⭐ Recent Stars
 
-- [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4! (4 days ago)
-- [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) - FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4. See README for per-bug status. (4 days ago)
-- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input (4 days ago)
+- [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4! (5 days ago)
+- [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) - FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4. See README for per-bug status. (5 days ago)
+- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input (5 days ago)
 - [rickparrish/luci-app-adblock-lean](https://github.com/rickparrish/luci-app-adblock-lean) -  (1 week ago)
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources (3 weeks ago)
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs (1 month ago)
