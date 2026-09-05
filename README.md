@@ -11,7 +11,7 @@
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (4 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (5 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (6 months ago)
-- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (7 months ago)
+- [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (8 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (9 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (9 months ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (10 months ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (3 days ago)
+- [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (4 days ago)
 - [0xjohnnydev/Applesauce](https://github.com/0xjohnnydev/Applesauce) - A playful emulator for iOS. Plays supported 32-bit iPhone games on iOS 15&#43; — no jailbreak needed, though JIT is. An unaffiliated fork of touchHLE and HyperHLE; neither project endorses it. (2 weeks ago)
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4! (3 weeks ago)
 - [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) - FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4. See README for per-bug status. (3 weeks ago)
