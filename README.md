@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 months ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (5 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (6 months ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (1 day ago)
+- [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (2 days ago)
 - [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (1 week ago)
 - [0xjohnnydev/Applesauce](https://github.com/0xjohnnydev/Applesauce) - A playful emulator for iOS. Plays supported 32-bit iPhone games on iOS 15&#43; — no jailbreak needed, though JIT is. An unaffiliated fork of touchHLE and HyperHLE; neither project endorses it. (3 weeks ago)
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4! (1 month ago)
