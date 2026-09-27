@@ -14,7 +14,7 @@
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (8 months ago)
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (10 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (10 months ago)
-- [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (10 months ago)
+- [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (11 months ago)
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (11 months ago)
 
 #### 🌱 My latest projects
@@ -41,7 +41,7 @@
 
 - [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/224) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (1 month ago)
 - [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/212) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (3 months ago)
-- [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (10 months ago)
+- [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (11 months ago)
 - [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 year ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 years ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/1) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 years ago)
