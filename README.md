@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/224) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (1 month ago)
+- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/224) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (2 months ago)
 - [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/212) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (3 months ago)
 - [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (11 months ago)
 - [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 year ago)
@@ -60,7 +60,7 @@
 
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time (1 week ago)
 - [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (2 weeks ago)
-- [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (3 weeks ago)
+- [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (4 weeks ago)
 - [0xjohnnydev/Applesauce](https://github.com/0xjohnnydev/Applesauce) - A playful emulator for iOS. Plays supported 32-bit iPhone games on iOS 15&#43; — no jailbreak needed, though JIT is. An unaffiliated fork of touchHLE and HyperHLE; neither project endorses it. (1 month ago)
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4! (1 month ago)
 - [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) - FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4. See README for per-bug status. (1 month ago)
