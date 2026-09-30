@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time (1 week ago)
+- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time (2 weeks ago)
 - [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (2 weeks ago)
 - [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (4 weeks ago)
 - [0xjohnnydev/Applesauce](https://github.com/0xjohnnydev/Applesauce) - A playful emulator for iOS. Plays supported 32-bit iPhone games on iOS 15&#43; — no jailbreak needed, though JIT is. An unaffiliated fork of touchHLE and HyperHLE; neither project endorses it. (1 month ago)
