@@ -6,13 +6,13 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 weeks ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 weeks ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (2 months ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (6 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (6 months ago)
 - [elanora96/qremote](https://github.com/elanora96/qremote) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on. (7 months ago)
 - [elanora96/pinocchio-tales](https://github.com/elanora96/pinocchio-tales) - We post scary stories for our followers (9 months ago)
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (10 months ago)
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem. (11 months ago)
 - [elanora96/sveltia-cms-auth](https://github.com/elanora96/sveltia-cms-auth) -  (11 months ago)
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane. (11 months ago)
 - [elanora96/occlucrawlee](https://github.com/elanora96/occlucrawlee) - A Crawlee Web Spider for Horg.com, collects information on known Occlupanids. (11 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 10 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
+- [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 11 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
 - [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 11 months ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
 
@@ -57,9 +57,9 @@
 
 #### ⭐ Recent Stars
 
-- [csanz91/kickr_esp32](https://github.com/csanz91/kickr_esp32) - Control the KICKR CORE virtual gears using an ESP32 (1 day ago)
+- [csanz91/kickr_esp32](https://github.com/csanz91/kickr_esp32) - Control the KICKR CORE virtual gears using an ESP32 (2 days ago)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time (3 weeks ago)
-- [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (3 weeks ago)
+- [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (4 weeks ago)
 - [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (1 month ago)
 - [0xjohnnydev/Applesauce](https://github.com/0xjohnnydev/Applesauce) - A playful emulator for iOS. Plays supported 32-bit iPhone games on iOS 15&#43; — no jailbreak needed, though JIT is. An unaffiliated fork of touchHLE and HyperHLE; neither project endorses it. (1 month ago)
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4! (1 month ago)
