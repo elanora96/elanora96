@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (4 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (5 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 months ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (6 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (7 months ago)
@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [noahfraiture/foodfetch](https://github.com/noahfraiture/foodfetch) - Yet another fetch to quickly get recipes (1 day ago)
 - [csanz91/kickr_esp32](https://github.com/csanz91/kickr_esp32) - Control the KICKR CORE virtual gears using an ESP32 (1 week ago)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time (4 weeks ago)
 - [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (1 month ago)
@@ -66,7 +67,6 @@
 - [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) - FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4. See README for per-bug status. (2 months ago)
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input (2 months ago)
 - [rickparrish/luci-app-adblock-lean](https://github.com/rickparrish/luci-app-adblock-lean) -  (2 months ago)
-- [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources (2 months ago)
 
 #### 📫 Web Presence
 
