@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (4 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 day ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 months ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (6 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (7 months ago)
@@ -32,13 +32,13 @@
 #### 🔭 Latest releases I've contributed to
 
 - [elanora96/flake-templates](https://github.com/elanora96/flake-templates) ([v0.1.1](https://github.com/elanora96/flake-templates/releases/tag/v0.1.1), 11 months ago) - I fell in love with Nix using these templates in my own projects, I hope they ease the barrier of entry for newcomers to the Nix ecosystem.
-- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 11 months ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
+- [elanora96/qremote](https://github.com/elanora96/qremote) ([v0.1.1](https://github.com/elanora96/qremote/releases/tag/v0.1.1), 1 year ago) - A multi-platform (Linux (X11/Wayland), MacOS, and Windows) zero setup remote for any computer you&#39;re playing media on.
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) ([0.1.0](https://github.com/juspay/rust-flake/releases/tag/0.1.0), 2 years ago) - A simple flake module for Rust development, based on crane.
 
 #### 🔨 My recent Pull Requests
 
 - [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/224) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (3 months ago)
-- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/212) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (4 months ago)
+- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/212) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (5 months ago)
 - [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (1 year ago)
 - [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 year ago)
 - [refactor, add automatic build](https://github.com/Gandalf138/JesusGame/pull/2) on [Gandalf138/JesusGame](https://github.com/Gandalf138/JesusGame) (2 years ago)
@@ -56,7 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (4 days ago)
+- [ravenscroftj/freshrss-flaresolverr-extension](https://github.com/ravenscroftj/freshrss-flaresolverr-extension) - FreshRSS plugin that provides cloudflare puzzle solving via flaresolverr (1 day ago)
+- [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (5 days ago)
 - [aledeg/xExtension-LatexSupport](https://github.com/aledeg/xExtension-LatexSupport) - A FreshRSS extension which add LaTeX support (2 weeks ago)
 - [noahfraiture/foodfetch](https://github.com/noahfraiture/foodfetch) - Yet another fetch to quickly get recipes (2 weeks ago)
 - [csanz91/kickr_esp32](https://github.com/csanz91/kickr_esp32) - Control the KICKR CORE virtual gears using an ESP32 (3 weeks ago)
@@ -65,7 +66,6 @@
 - [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (2 months ago)
 - [0xjohnnydev/Applesauce](https://github.com/0xjohnnydev/Applesauce) - A playful emulator for iOS. Plays supported 32-bit iPhone games on iOS 15&#43; — no jailbreak needed, though JIT is. An unaffiliated fork of touchHLE and HyperHLE; neither project endorses it. (2 months ago)
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4! (2 months ago)
-- [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) - FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4. See README for per-bug status. (2 months ago)
 
 #### 📫 Web Presence
 
