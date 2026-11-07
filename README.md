@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (5 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (6 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (3 months ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (7 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (7 months ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [ravenscroftj/freshrss-flaresolverr-extension](https://github.com/ravenscroftj/freshrss-flaresolverr-extension) - FreshRSS plugin that provides cloudflare puzzle solving via flaresolverr (5 days ago)
+- [ravenscroftj/freshrss-flaresolverr-extension](https://github.com/ravenscroftj/freshrss-flaresolverr-extension) - FreshRSS plugin that provides cloudflare puzzle solving via flaresolverr (6 days ago)
 - [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (1 week ago)
 - [aledeg/xExtension-LatexSupport](https://github.com/aledeg/xExtension-LatexSupport) - A FreshRSS extension which add LaTeX support (3 weeks ago)
 - [noahfraiture/foodfetch](https://github.com/noahfraiture/foodfetch) - Yet another fetch to quickly get recipes (3 weeks ago)
