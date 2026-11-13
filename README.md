@@ -54,16 +54,16 @@
 
 #### ⭐ Recent Stars
 
+- [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust. (1 day ago)
 - [ravenscroftj/freshrss-flaresolverr-extension](https://github.com/ravenscroftj/freshrss-flaresolverr-extension) - FreshRSS plugin that provides cloudflare puzzle solving via flaresolverr (1 week ago)
 - [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (2 weeks ago)
 - [aledeg/xExtension-LatexSupport](https://github.com/aledeg/xExtension-LatexSupport) - A FreshRSS extension which add LaTeX support (4 weeks ago)
-- [noahfraiture/foodfetch](https://github.com/noahfraiture/foodfetch) - Yet another fetch to quickly get recipes (4 weeks ago)
+- [noahfraiture/foodfetch](https://github.com/noahfraiture/foodfetch) - Yet another fetch to quickly get recipes (1 month ago)
 - [csanz91/kickr_esp32](https://github.com/csanz91/kickr_esp32) - Control the KICKR CORE virtual gears using an ESP32 (1 month ago)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time (1 month ago)
 - [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (2 months ago)
 - [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (2 months ago)
 - [0xjohnnydev/Applesauce](https://github.com/0xjohnnydev/Applesauce) - A playful emulator for iOS. Plays supported 32-bit iPhone games on iOS 15&#43; — no jailbreak needed, though JIT is. An unaffiliated fork of touchHLE and HyperHLE; neither project endorses it. (2 months ago)
-- [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4! (3 months ago)
 
 #### 📫 Web Presence
 
