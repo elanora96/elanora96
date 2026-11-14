@@ -54,10 +54,10 @@
 
 #### ⭐ Recent Stars
 
-- [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust. (1 day ago)
+- [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust. (2 days ago)
 - [ravenscroftj/freshrss-flaresolverr-extension](https://github.com/ravenscroftj/freshrss-flaresolverr-extension) - FreshRSS plugin that provides cloudflare puzzle solving via flaresolverr (1 week ago)
 - [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (2 weeks ago)
-- [aledeg/xExtension-LatexSupport](https://github.com/aledeg/xExtension-LatexSupport) - A FreshRSS extension which add LaTeX support (4 weeks ago)
+- [aledeg/xExtension-LatexSupport](https://github.com/aledeg/xExtension-LatexSupport) - A FreshRSS extension which add LaTeX support (1 month ago)
 - [noahfraiture/foodfetch](https://github.com/noahfraiture/foodfetch) - Yet another fetch to quickly get recipes (1 month ago)
 - [csanz91/kickr_esp32](https://github.com/csanz91/kickr_esp32) - Control the KICKR CORE virtual gears using an ESP32 (1 month ago)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time (1 month ago)
