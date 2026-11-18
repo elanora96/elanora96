@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (4 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 day ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (4 months ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (7 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (8 months ago)
@@ -51,16 +51,16 @@
 
 #### ⭐ Recent Stars
 
-- [drakmor/nanoDNS](https://github.com/drakmor/nanoDNS) - Playstation 4/5 DNS proxy server (2 days ago)
-- [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust. (5 days ago)
+- [GaryOderNichts/evwii](https://github.com/GaryOderNichts/evwii) - Wii U plugin to enhance the vWii mode (1 day ago)
+- [drakmor/nanoDNS](https://github.com/drakmor/nanoDNS) - Playstation 4/5 DNS proxy server (3 days ago)
+- [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust. (6 days ago)
 - [ravenscroftj/freshrss-flaresolverr-extension](https://github.com/ravenscroftj/freshrss-flaresolverr-extension) - FreshRSS plugin that provides cloudflare puzzle solving via flaresolverr (2 weeks ago)
-- [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (2 weeks ago)
+- [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (3 weeks ago)
 - [aledeg/xExtension-LatexSupport](https://github.com/aledeg/xExtension-LatexSupport) - A FreshRSS extension which add LaTeX support (1 month ago)
 - [noahfraiture/foodfetch](https://github.com/noahfraiture/foodfetch) - Yet another fetch to quickly get recipes (1 month ago)
 - [csanz91/kickr_esp32](https://github.com/csanz91/kickr_esp32) - Control the KICKR CORE virtual gears using an ESP32 (1 month ago)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time (2 months ago)
 - [stepbrobd/howfastly](https://github.com/stepbrobd/howfastly) - how fast is your connection to the Fastly network? (2 months ago)
-- [crowquillx/vortex-nix](https://github.com/crowquillx/vortex-nix) - Native NixOS package for Nexus Mods Vortex (2 months ago)
 
 #### 📫 Web Presence
 
