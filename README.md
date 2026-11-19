@@ -51,9 +51,9 @@
 
 #### ⭐ Recent Stars
 
-- [GaryOderNichts/evwii](https://github.com/GaryOderNichts/evwii) - Wii U plugin to enhance the vWii mode (1 day ago)
-- [drakmor/nanoDNS](https://github.com/drakmor/nanoDNS) - Playstation 4/5 DNS proxy server (3 days ago)
-- [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust. (6 days ago)
+- [GaryOderNichts/evwii](https://github.com/GaryOderNichts/evwii) - Wii U plugin to enhance the vWii mode (2 days ago)
+- [drakmor/nanoDNS](https://github.com/drakmor/nanoDNS) - Playstation 4/5 DNS proxy server (4 days ago)
+- [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust. (1 week ago)
 - [ravenscroftj/freshrss-flaresolverr-extension](https://github.com/ravenscroftj/freshrss-flaresolverr-extension) - FreshRSS plugin that provides cloudflare puzzle solving via flaresolverr (2 weeks ago)
 - [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (3 weeks ago)
 - [aledeg/xExtension-LatexSupport](https://github.com/aledeg/xExtension-LatexSupport) - A FreshRSS extension which add LaTeX support (1 month ago)
