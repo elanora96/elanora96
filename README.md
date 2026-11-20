@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (1 day ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (2 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (4 months ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (7 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (8 months ago)
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [GaryOderNichts/evwii](https://github.com/GaryOderNichts/evwii) - Wii U plugin to enhance the vWii mode (2 days ago)
-- [drakmor/nanoDNS](https://github.com/drakmor/nanoDNS) - Playstation 4/5 DNS proxy server (4 days ago)
+- [GaryOderNichts/evwii](https://github.com/GaryOderNichts/evwii) - Wii U plugin to enhance the vWii mode (3 days ago)
+- [drakmor/nanoDNS](https://github.com/drakmor/nanoDNS) - Playstation 4/5 DNS proxy server (5 days ago)
 - [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust. (1 week ago)
 - [ravenscroftj/freshrss-flaresolverr-extension](https://github.com/ravenscroftj/freshrss-flaresolverr-extension) - FreshRSS plugin that provides cloudflare puzzle solving via flaresolverr (2 weeks ago)
 - [notken12/licensesnip](https://github.com/notken12/licensesnip) - Automatically add license headers to your source code, customizable for any language using a config file. (3 weeks ago)
