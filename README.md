@@ -6,7 +6,7 @@
 
 #### 👩‍💻 Check out what I'm currently working on
 
-- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (3 days ago)
+- [elanora96/nixos-configuration](https://github.com/elanora96/nixos-configuration) - Flake based nixos config(s) (4 days ago)
 - [elanora96/elanora96.github.io](https://github.com/elanora96/elanora96.github.io) - My personal site. Uses React with Typescript, Vite, MDX, and many other technologies for a great balance of UX and DX (4 months ago)
 - [elanora96/pdf_flatedecode](https://github.com/elanora96/pdf_flatedecode) - Search for flatedecode objects in a pdf, and decode them? (7 months ago)
 - [elanora96/dotfiles](https://github.com/elanora96/dotfiles) - Dotfiles managed by chezmoi (8 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/224) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (3 months ago)
+- [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/224) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (4 months ago)
 - [Typo fixes](https://github.com/lynxthecat/adblock-lean/pull/212) on [lynxthecat/adblock-lean](https://github.com/lynxthecat/adblock-lean) (5 months ago)
 - [nix: update rust-overlay](https://github.com/juspay/rust-flake/pull/56) on [juspay/rust-flake](https://github.com/juspay/rust-flake) (1 year ago)
 - [sheldon: add module](https://github.com/nix-community/home-manager/pull/7591) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 year ago)
